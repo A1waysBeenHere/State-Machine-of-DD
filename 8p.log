@@ -1,0 +1,2134 @@
+
+  0%|          | 1/2000 [00:15<8:48:06, 15.85s/it]
+                                                  
+{'loss': '1.565', 'grad_norm': '0.7908', 'learning_rate': '0', 'epoch': '0.008'}
+
+  0%|          | 1/2000 [00:16<8:48:06, 15.85s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']![WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 2/2000 [00:25<6:42:10, 12.08s/it]
+                                                  
+{'loss': '1.264', 'grad_norm': '0.5945', 'learning_rate': '5e-08', 'epoch': '0.016'}
+
+  0%|          | 2/2000 [00:25<6:42:10, 12.08s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']![WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 3/2000 [00:34<5:59:12, 10.79s/it]
+                                                  
+{'loss': '1.485', 'grad_norm': '1.484', 'learning_rate': '1e-07', 'epoch': '0.024'}
+
+  0%|          | 3/2000 [00:34<5:59:12, 10.79s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']![WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 4/2000 [00:42<5:18:24,  9.57s/it]
+                                                  
+{'loss': '2.502', 'grad_norm': '1.417', 'learning_rate': '1.5e-07', 'epoch': '0.032'}
+
+  0%|          | 4/2000 [00:42<5:18:24,  9.57s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 5/2000 [00:52<5:27:00,  9.83s/it]
+                                                  
+{'loss': '1.332', 'grad_norm': '0.5503', 'learning_rate': '2e-07', 'epoch': '0.04'}
+
+  0%|          | 5/2000 [00:52<5:27:00,  9.83s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 6/2000 [01:00<5:03:06,  9.12s/it]
+                                                  
+{'loss': '1.591', 'grad_norm': '0.6207', 'learning_rate': '2.5e-07', 'epoch': '0.048'}
+
+  0%|          | 6/2000 [01:00<5:03:06,  9.12s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 7/2000 [01:08<4:51:16,  8.77s/it]
+                                                  
+{'loss': '1.614', 'grad_norm': '0.8963', 'learning_rate': '3e-07', 'epoch': '0.056'}
+
+  0%|          | 7/2000 [01:08<4:51:16,  8.77s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 8/2000 [01:17<4:56:57,  8.94s/it]
+                                                  
+{'loss': '1.467', 'grad_norm': '0.6172', 'learning_rate': '3.5e-07', 'epoch': '0.064'}
+
+  0%|          | 8/2000 [01:17<4:56:57,  8.94s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 9/2000 [01:25<4:45:48,  8.61s/it]
+                                                  
+{'loss': '1.702', 'grad_norm': '0.6473', 'learning_rate': '4e-07', 'epoch': '0.072'}
+
+  0%|          | 9/2000 [01:25<4:45:48,  8.61s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  0%|          | 10/2000 [01:34<4:44:41,  8.58s/it]
+                                                   
+{'loss': '1.239', 'grad_norm': '0.6453', 'learning_rate': '4.5e-07', 'epoch': '0.08'}
+
+  0%|          | 10/2000 [01:34<4:44:41,  8.58s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 11/2000 [01:43<4:56:37,  8.95s/it]
+                                                   
+{'loss': '1.441', 'grad_norm': '0.7537', 'learning_rate': '5e-07', 'epoch': '0.088'}
+
+  1%|          | 11/2000 [01:43<4:56:37,  8.95s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 12/2000 [01:51<4:48:11,  8.70s/it]
+                                                   
+{'loss': '1.668', 'grad_norm': '0.5519', 'learning_rate': '5.5e-07', 'epoch': '0.096'}
+
+  1%|          | 12/2000 [01:51<4:48:11,  8.70s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']![WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 13/2000 [02:04<5:21:50,  9.72s/it]
+                                                   
+{'loss': '1.179', 'grad_norm': '0.5695', 'learning_rate': '6e-07', 'epoch': '0.104'}
+
+  1%|          | 13/2000 [02:04<5:21:50,  9.72s/it]
+  1%|          | 14/2000 [02:12<5:10:48,  9.39s/it]
+                                                   
+{'loss': '1.534', 'grad_norm': '1.086', 'learning_rate': '6.5e-07', 'epoch': '0.112'}
+
+  1%|          | 14/2000 [02:12<5:10:48,  9.39s/it]
+  1%|          | 15/2000 [02:20<4:55:18,  8.93s/it]
+                                                   
+{'loss': '1.297', 'grad_norm': '0.3558', 'learning_rate': '7e-07', 'epoch': '0.12'}
+
+  1%|          | 15/2000 [02:20<4:55:18,  8.93s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 16/2000 [02:30<5:01:09,  9.11s/it]
+                                                   
+{'loss': '1.479', 'grad_norm': '0.8887', 'learning_rate': '7.5e-07', 'epoch': '0.128'}
+
+  1%|          | 16/2000 [02:30<5:01:09,  9.11s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 17/2000 [02:38<4:49:50,  8.77s/it]
+                                                   
+{'loss': '1.57', 'grad_norm': '0.8019', 'learning_rate': '8e-07', 'epoch': '0.136'}
+
+  1%|          | 17/2000 [02:38<4:49:50,  8.77s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 18/2000 [02:47<4:52:49,  8.86s/it]
+                                                   
+{'loss': '1.445', 'grad_norm': '0.3252', 'learning_rate': '8.5e-07', 'epoch': '0.144'}
+
+  1%|          | 18/2000 [02:47<4:52:49,  8.86s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 19/2000 [02:56<4:59:06,  9.06s/it]
+                                                   
+{'loss': '2.01', 'grad_norm': '0.9227', 'learning_rate': '9e-07', 'epoch': '0.152'}
+
+  1%|          | 19/2000 [02:56<4:59:06,  9.06s/it]
+  1%|          | 20/2000 [03:04<4:46:31,  8.68s/it]
+                                                   
+{'loss': '1.303', 'grad_norm': '0.5561', 'learning_rate': '9.5e-07', 'epoch': '0.16'}
+
+  1%|          | 20/2000 [03:04<4:46:31,  8.68s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|          | 21/2000 [03:12<4:44:53,  8.64s/it]
+                                                   
+{'loss': '1.632', 'grad_norm': '0.6749', 'learning_rate': '1e-06', 'epoch': '0.168'}
+
+  1%|          | 21/2000 [03:12<4:44:53,  8.64s/it]
+  1%|          | 22/2000 [03:21<4:40:34,  8.51s/it]
+                                                   
+{'loss': '1.427', 'grad_norm': '0.617', 'learning_rate': '1.05e-06', 'epoch': '0.176'}
+
+  1%|          | 22/2000 [03:21<4:40:34,  8.51s/it]
+  1%|          | 23/2000 [03:29<4:42:06,  8.56s/it]
+                                                   
+{'loss': '1.763', 'grad_norm': '0.7561', 'learning_rate': '1.1e-06', 'epoch': '0.184'}
+
+  1%|          | 23/2000 [03:29<4:42:06,  8.56s/it]
+  1%|          | 24/2000 [03:38<4:47:28,  8.73s/it]
+                                                   
+{'loss': '1.325', 'grad_norm': '0.4853', 'learning_rate': '1.15e-06', 'epoch': '0.192'}
+
+  1%|          | 24/2000 [03:38<4:47:28,  8.73s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  1%|▏         | 25/2000 [03:47<4:43:18,  8.61s/it]
+                                                   
+{'loss': '1.438', 'grad_norm': '0.5117', 'learning_rate': '1.2e-06', 'epoch': '0.2'}
+
+  1%|▏         | 25/2000 [03:47<4:43:18,  8.61s/it]
+  1%|▏         | 26/2000 [03:55<4:40:33,  8.53s/it]
+                                                   
+{'loss': '1.591', 'grad_norm': '0.6126', 'learning_rate': '1.25e-06', 'epoch': '0.208'}
+
+  1%|▏         | 26/2000 [03:55<4:40:33,  8.53s/it]
+  1%|▏         | 27/2000 [04:04<4:44:20,  8.65s/it]
+                                                   
+{'loss': '1.601', 'grad_norm': '0.8591', 'learning_rate': '1.3e-06', 'epoch': '0.216'}
+
+  1%|▏         | 27/2000 [04:04<4:44:20,  8.65s/it]
+  1%|▏         | 28/2000 [04:12<4:39:09,  8.49s/it]
+                                                   
+{'loss': '1.534', 'grad_norm': '0.5204', 'learning_rate': '1.35e-06', 'epoch': '0.224'}
+
+  1%|▏         | 28/2000 [04:12<4:39:09,  8.49s/it]
+  1%|▏         | 29/2000 [04:21<4:38:04,  8.47s/it]
+                                                   
+{'loss': '1.71', 'grad_norm': '0.8211', 'learning_rate': '1.4e-06', 'epoch': '0.232'}
+
+  1%|▏         | 29/2000 [04:21<4:38:04,  8.47s/it]
+  2%|▏         | 30/2000 [04:29<4:41:23,  8.57s/it]
+                                                   
+{'loss': '1.29', 'grad_norm': '0.6872', 'learning_rate': '1.45e-06', 'epoch': '0.24'}
+
+  2%|▏         | 30/2000 [04:29<4:41:23,  8.57s/it]
+  2%|▏         | 31/2000 [04:37<4:34:25,  8.36s/it]
+                                                   
+{'loss': '1.676', 'grad_norm': '0.9445', 'learning_rate': '1.5e-06', 'epoch': '0.248'}
+
+  2%|▏         | 31/2000 [04:37<4:34:25,  8.36s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  2%|▏         | 32/2000 [04:47<4:46:17,  8.73s/it]
+                                                   
+{'loss': '1.278', 'grad_norm': '0.6339', 'learning_rate': '1.55e-06', 'epoch': '0.256'}
+
+  2%|▏         | 32/2000 [04:47<4:46:17,  8.73s/it]
+  2%|▏         | 33/2000 [04:56<4:45:40,  8.71s/it]
+                                                   
+{'loss': '1.443', 'grad_norm': '0.8939', 'learning_rate': '1.6e-06', 'epoch': '0.264'}
+
+  2%|▏         | 33/2000 [04:56<4:45:40,  8.71s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  2%|▏         | 34/2000 [05:04<4:45:04,  8.70s/it]
+                                                   
+{'loss': '1.728', 'grad_norm': '0.7471', 'learning_rate': '1.65e-06', 'epoch': '0.272'}
+
+  2%|▏         | 34/2000 [05:04<4:45:04,  8.70s/it]
+  2%|▏         | 35/2000 [05:14<4:51:00,  8.89s/it]
+                                                   
+{'loss': '1.403', 'grad_norm': '0.5369', 'learning_rate': '1.7e-06', 'epoch': '0.28'}
+
+  2%|▏         | 35/2000 [05:14<4:51:00,  8.89s/it]
+  2%|▏         | 36/2000 [05:21<4:40:15,  8.56s/it]
+                                                   
+{'loss': '1.922', 'grad_norm': '1.668', 'learning_rate': '1.75e-06', 'epoch': '0.288'}
+
+  2%|▏         | 36/2000 [05:21<4:40:15,  8.56s/it]
+  2%|▏         | 37/2000 [05:30<4:38:49,  8.52s/it]
+                                                   
+{'loss': '1.734', 'grad_norm': '0.907', 'learning_rate': '1.8e-06', 'epoch': '0.296'}
+
+  2%|▏         | 37/2000 [05:30<4:38:49,  8.52s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  2%|▏         | 38/2000 [05:39<4:46:56,  8.78s/it]
+                                                   
+{'loss': '1.116', 'grad_norm': '0.2856', 'learning_rate': '1.85e-06', 'epoch': '0.304'}
+
+  2%|▏         | 38/2000 [05:39<4:46:56,  8.78s/it]
+  2%|▏         | 39/2000 [05:47<4:42:25,  8.64s/it]
+                                                   
+{'loss': '1.533', 'grad_norm': '0.958', 'learning_rate': '1.9e-06', 'epoch': '0.312'}
+
+  2%|▏         | 39/2000 [05:48<4:42:25,  8.64s/it]
+  2%|▏         | 40/2000 [05:57<4:47:37,  8.80s/it]
+                                                   
+{'loss': '1.461', 'grad_norm': '0.711', 'learning_rate': '1.95e-06', 'epoch': '0.32'}
+
+  2%|▏         | 40/2000 [05:57<4:47:37,  8.80s/it]
+  2%|▏         | 41/2000 [06:05<4:43:58,  8.70s/it]
+                                                   
+{'loss': '1.02', 'grad_norm': '0.4745', 'learning_rate': '2e-06', 'epoch': '0.328'}
+
+  2%|▏         | 41/2000 [06:05<4:43:58,  8.70s/it]
+  2%|▏         | 42/2000 [06:13<4:40:02,  8.58s/it]
+                                                   
+{'loss': '1.465', 'grad_norm': '0.7302', 'learning_rate': '2.05e-06', 'epoch': '0.336'}
+
+  2%|▏         | 42/2000 [06:13<4:40:02,  8.58s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  2%|▏         | 43/2000 [06:23<4:52:02,  8.95s/it]
+                                                   
+{'loss': '1.601', 'grad_norm': '0.9745', 'learning_rate': '2.1e-06', 'epoch': '0.344'}
+
+  2%|▏         | 43/2000 [06:23<4:52:02,  8.95s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  2%|▏         | 44/2000 [06:32<4:48:20,  8.84s/it]
+                                                   
+{'loss': '1.161', 'grad_norm': '0.5244', 'learning_rate': '2.15e-06', 'epoch': '0.352'}
+
+  2%|▏         | 44/2000 [06:32<4:48:20,  8.84s/it]
+  2%|▏         | 45/2000 [06:40<4:42:42,  8.68s/it]
+                                                   
+{'loss': '1.625', 'grad_norm': '0.7064', 'learning_rate': '2.2e-06', 'epoch': '0.36'}
+
+  2%|▏         | 45/2000 [06:40<4:42:42,  8.68s/it]
+  2%|▏         | 46/2000 [06:49<4:46:30,  8.80s/it]
+                                                   
+{'loss': '1.805', 'grad_norm': '1.255', 'learning_rate': '2.25e-06', 'epoch': '0.368'}
+
+  2%|▏         | 46/2000 [06:49<4:46:30,  8.80s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  2%|▏         | 47/2000 [06:58<4:46:36,  8.81s/it]
+                                                   
+{'loss': '1.79', 'grad_norm': '1.401', 'learning_rate': '2.3e-06', 'epoch': '0.376'}
+
+  2%|▏         | 47/2000 [06:58<4:46:36,  8.81s/it]
+  2%|▏         | 48/2000 [07:07<4:50:23,  8.93s/it]
+                                                   
+{'loss': '1.251', 'grad_norm': '0.8961', 'learning_rate': '2.35e-06', 'epoch': '0.384'}
+
+  2%|▏         | 48/2000 [07:07<4:50:23,  8.93s/it]
+  2%|▏         | 49/2000 [07:16<4:44:58,  8.76s/it]
+                                                   
+{'loss': '1.477', 'grad_norm': '0.3675', 'learning_rate': '2.4e-06', 'epoch': '0.392'}
+
+  2%|▏         | 49/2000 [07:16<4:44:58,  8.76s/it]
+  2%|▎         | 50/2000 [07:25<4:47:10,  8.84s/it]
+                                                   
+{'loss': '1.405', 'grad_norm': '0.6103', 'learning_rate': '2.45e-06', 'epoch': '0.4'}
+
+  2%|▎         | 50/2000 [07:25<4:47:10,  8.84s/it]
+  3%|▎         | 51/2000 [07:33<4:41:58,  8.68s/it]
+                                                   
+{'loss': '1.54', 'grad_norm': '0.9744', 'learning_rate': '2.5e-06', 'epoch': '0.408'}
+
+  3%|▎         | 51/2000 [07:33<4:41:58,  8.68s/it]
+  3%|▎         | 52/2000 [07:42<4:41:46,  8.68s/it]
+                                                   
+{'loss': '1.451', 'grad_norm': '0.4905', 'learning_rate': '2.55e-06', 'epoch': '0.416'}
+
+  3%|▎         | 52/2000 [07:42<4:41:46,  8.68s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  3%|▎         | 53/2000 [07:51<4:50:36,  8.96s/it]
+                                                   
+{'loss': '1.229', 'grad_norm': '0.5075', 'learning_rate': '2.6e-06', 'epoch': '0.424'}
+
+  3%|▎         | 53/2000 [07:51<4:50:36,  8.96s/it]
+  3%|▎         | 54/2000 [08:00<4:44:30,  8.77s/it]
+                                                   
+{'loss': '1.402', 'grad_norm': '0.7462', 'learning_rate': '2.65e-06', 'epoch': '0.432'}
+
+  3%|▎         | 54/2000 [08:00<4:44:30,  8.77s/it]
+  3%|▎         | 55/2000 [08:08<4:42:07,  8.70s/it]
+                                                   
+{'loss': '1.609', 'grad_norm': '0.7915', 'learning_rate': '2.7e-06', 'epoch': '0.44'}
+
+  3%|▎         | 55/2000 [08:08<4:42:07,  8.70s/it]
+  3%|▎         | 56/2000 [08:17<4:46:39,  8.85s/it]
+                                                   
+{'loss': '1.274', 'grad_norm': '0.5131', 'learning_rate': '2.75e-06', 'epoch': '0.448'}
+
+  3%|▎         | 56/2000 [08:17<4:46:39,  8.85s/it]
+  3%|▎         | 57/2000 [08:26<4:42:54,  8.74s/it]
+                                                   
+{'loss': '1.356', 'grad_norm': '0.488', 'learning_rate': '2.8e-06', 'epoch': '0.456'}
+
+  3%|▎         | 57/2000 [08:26<4:42:54,  8.74s/it]
+  3%|▎         | 58/2000 [08:35<4:48:26,  8.91s/it]
+                                                   
+{'loss': '1.464', 'grad_norm': '0.8054', 'learning_rate': '2.85e-06', 'epoch': '0.464'}
+
+  3%|▎         | 58/2000 [08:35<4:48:26,  8.91s/it]
+  3%|▎         | 59/2000 [08:44<4:44:33,  8.80s/it]
+                                                   
+{'loss': '1.603', 'grad_norm': '1.047', 'learning_rate': '2.9e-06', 'epoch': '0.472'}
+
+  3%|▎         | 59/2000 [08:44<4:44:33,  8.80s/it]
+  3%|▎         | 60/2000 [08:52<4:40:42,  8.68s/it]
+                                                   
+{'loss': '1.455', 'grad_norm': '0.7063', 'learning_rate': '2.95e-06', 'epoch': '0.48'}
+
+  3%|▎         | 60/2000 [08:52<4:40:42,  8.68s/it]
+  3%|▎         | 61/2000 [09:01<4:40:00,  8.66s/it]
+                                                   
+{'loss': '1.454', 'grad_norm': '0.7055', 'learning_rate': '3e-06', 'epoch': '0.488'}
+
+  3%|▎         | 61/2000 [09:01<4:40:00,  8.66s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  3%|▎         | 62/2000 [09:10<4:45:13,  8.83s/it]
+                                                   
+{'loss': '1.693', 'grad_norm': '0.7574', 'learning_rate': '3.05e-06', 'epoch': '0.496'}
+
+  3%|▎         | 62/2000 [09:10<4:45:13,  8.83s/it]
+  3%|▎         | 63/2000 [09:18<4:36:29,  8.56s/it]
+                                                   
+{'loss': '1.202', 'grad_norm': '0.5837', 'learning_rate': '3.1e-06', 'epoch': '0.504'}
+
+  3%|▎         | 63/2000 [09:18<4:36:29,  8.56s/it]
+  3%|▎         | 64/2000 [09:26<4:33:11,  8.47s/it]
+                                                   
+{'loss': '1.629', 'grad_norm': '0.9956', 'learning_rate': '3.15e-06', 'epoch': '0.512'}
+
+  3%|▎         | 64/2000 [09:26<4:33:11,  8.47s/it]
+  3%|▎         | 65/2000 [09:35<4:35:23,  8.54s/it]
+                                                   
+{'loss': '1.259', 'grad_norm': '0.4471', 'learning_rate': '3.2e-06', 'epoch': '0.52'}
+
+  3%|▎         | 65/2000 [09:35<4:35:23,  8.54s/it]
+  3%|▎         | 66/2000 [09:44<4:41:42,  8.74s/it]
+                                                   
+{'loss': '1.568', 'grad_norm': '0.8687', 'learning_rate': '3.25e-06', 'epoch': '0.528'}
+
+  3%|▎         | 66/2000 [09:44<4:41:42,  8.74s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  3%|▎         | 67/2000 [09:53<4:48:21,  8.95s/it]
+                                                   
+{'loss': '1.967', 'grad_norm': '1.34', 'learning_rate': '3.3e-06', 'epoch': '0.536'}
+
+  3%|▎         | 67/2000 [09:53<4:48:21,  8.95s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  3%|▎         | 68/2000 [10:03<4:51:57,  9.07s/it]
+                                                   
+{'loss': '1.406', 'grad_norm': '0.5218', 'learning_rate': '3.35e-06', 'epoch': '0.544'}
+
+  3%|▎         | 68/2000 [10:03<4:51:57,  9.07s/it]
+  3%|▎         | 69/2000 [10:12<4:55:57,  9.20s/it]
+                                                   
+{'loss': '1.336', 'grad_norm': '0.7379', 'learning_rate': '3.4e-06', 'epoch': '0.552'}
+
+  3%|▎         | 69/2000 [10:12<4:55:57,  9.20s/it]
+  4%|▎         | 70/2000 [10:21<4:53:53,  9.14s/it]
+                                                   
+{'loss': '0.9731', 'grad_norm': '0.373', 'learning_rate': '3.45e-06', 'epoch': '0.56'}
+
+  4%|▎         | 70/2000 [10:21<4:53:53,  9.14s/it]
+  4%|▎         | 71/2000 [10:30<4:49:50,  9.02s/it]
+                                                   
+{'loss': '1.298', 'grad_norm': '0.7745', 'learning_rate': '3.5e-06', 'epoch': '0.568'}
+
+  4%|▎         | 71/2000 [10:30<4:49:50,  9.02s/it]
+  4%|▎         | 72/2000 [10:40<4:55:18,  9.19s/it]
+                                                   
+{'loss': '1.3', 'grad_norm': '0.5351', 'learning_rate': '3.55e-06', 'epoch': '0.576'}
+
+  4%|▎         | 72/2000 [10:40<4:55:18,  9.19s/it]
+  4%|▎         | 73/2000 [10:48<4:43:35,  8.83s/it]
+                                                   
+{'loss': '1.397', 'grad_norm': '0.5595', 'learning_rate': '3.6e-06', 'epoch': '0.584'}
+
+  4%|▎         | 73/2000 [10:48<4:43:35,  8.83s/it]
+  4%|▎         | 74/2000 [10:57<4:48:20,  8.98s/it]
+                                                   
+{'loss': '1.345', 'grad_norm': '0.9982', 'learning_rate': '3.65e-06', 'epoch': '0.592'}
+
+  4%|▎         | 74/2000 [10:57<4:48:20,  8.98s/it]
+  4%|▍         | 75/2000 [11:06<4:48:50,  9.00s/it]
+                                                   
+{'loss': '1.23', 'grad_norm': '0.3864', 'learning_rate': '3.7e-06', 'epoch': '0.6'}
+
+  4%|▍         | 75/2000 [11:06<4:48:50,  9.00s/it]
+  4%|▍         | 76/2000 [11:14<4:40:04,  8.73s/it]
+                                                   
+{'loss': '1.469', 'grad_norm': '0.6804', 'learning_rate': '3.75e-06', 'epoch': '0.608'}
+
+  4%|▍         | 76/2000 [11:14<4:40:04,  8.73s/it]
+  4%|▍         | 77/2000 [11:23<4:42:46,  8.82s/it]
+                                                   
+{'loss': '1.901', 'grad_norm': '1.666', 'learning_rate': '3.8e-06', 'epoch': '0.616'}
+
+  4%|▍         | 77/2000 [11:23<4:42:46,  8.82s/it]
+  4%|▍         | 78/2000 [11:32<4:44:59,  8.90s/it]
+                                                   
+{'loss': '1.326', 'grad_norm': '0.6071', 'learning_rate': '3.85e-06', 'epoch': '0.624'}
+
+  4%|▍         | 78/2000 [11:32<4:44:59,  8.90s/it]
+  4%|▍         | 79/2000 [11:41<4:41:47,  8.80s/it]
+                                                   
+{'loss': '1.402', 'grad_norm': '0.6432', 'learning_rate': '3.9e-06', 'epoch': '0.632'}
+
+  4%|▍         | 79/2000 [11:41<4:41:47,  8.80s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  4%|▍         | 80/2000 [11:50<4:49:42,  9.05s/it]
+                                                   
+{'loss': '1.397', 'grad_norm': '0.7902', 'learning_rate': '3.95e-06', 'epoch': '0.64'}
+
+  4%|▍         | 80/2000 [11:50<4:49:42,  9.05s/it]
+  4%|▍         | 81/2000 [11:59<4:42:33,  8.83s/it]
+                                                   
+{'loss': '1.262', 'grad_norm': '0.3675', 'learning_rate': '4e-06', 'epoch': '0.648'}
+
+  4%|▍         | 81/2000 [11:59<4:42:33,  8.83s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  4%|▍         | 82/2000 [12:08<4:45:00,  8.92s/it]
+                                                   
+{'loss': '1.307', 'grad_norm': '0.5891', 'learning_rate': '4.05e-06', 'epoch': '0.656'}
+
+  4%|▍         | 82/2000 [12:08<4:45:00,  8.92s/it]
+  4%|▍         | 83/2000 [12:18<4:54:00,  9.20s/it]
+                                                   
+{'loss': '1.27', 'grad_norm': '0.4411', 'learning_rate': '4.1e-06', 'epoch': '0.664'}
+
+  4%|▍         | 83/2000 [12:18<4:54:00,  9.20s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  4%|▍         | 84/2000 [12:27<4:51:05,  9.12s/it]
+                                                   
+{'loss': '1.262', 'grad_norm': '0.5208', 'learning_rate': '4.15e-06', 'epoch': '0.672'}
+
+  4%|▍         | 84/2000 [12:27<4:51:05,  9.12s/it]
+  4%|▍         | 85/2000 [12:35<4:48:33,  9.04s/it]
+                                                   
+{'loss': '1.437', 'grad_norm': '0.6289', 'learning_rate': '4.2e-06', 'epoch': '0.68'}
+
+  4%|▍         | 85/2000 [12:35<4:48:33,  9.04s/it]
+  4%|▍         | 86/2000 [12:44<4:39:33,  8.76s/it]
+                                                   
+{'loss': '1.332', 'grad_norm': '0.9334', 'learning_rate': '4.25e-06', 'epoch': '0.688'}
+
+  4%|▍         | 86/2000 [12:44<4:39:33,  8.76s/it]
+  4%|▍         | 87/2000 [12:52<4:39:41,  8.77s/it]
+                                                   
+{'loss': '1.34', 'grad_norm': '1.053', 'learning_rate': '4.3e-06', 'epoch': '0.696'}
+
+  4%|▍         | 87/2000 [12:52<4:39:41,  8.77s/it]
+  4%|▍         | 88/2000 [13:01<4:40:45,  8.81s/it]
+                                                   
+{'loss': '1.413', 'grad_norm': '0.7882', 'learning_rate': '4.35e-06', 'epoch': '0.704'}
+
+  4%|▍         | 88/2000 [13:01<4:40:45,  8.81s/it]
+  4%|▍         | 89/2000 [13:09<4:31:56,  8.54s/it]
+                                                   
+{'loss': '1.8', 'grad_norm': '0.955', 'learning_rate': '4.4e-06', 'epoch': '0.712'}
+
+  4%|▍         | 89/2000 [13:09<4:31:56,  8.54s/it]
+  4%|▍         | 90/2000 [13:18<4:31:23,  8.53s/it]
+                                                   
+{'loss': '1.387', 'grad_norm': '0.596', 'learning_rate': '4.45e-06', 'epoch': '0.72'}
+
+  4%|▍         | 90/2000 [13:18<4:31:23,  8.53s/it]
+  5%|▍         | 91/2000 [13:27<4:40:59,  8.83s/it]
+                                                   
+{'loss': '1.726', 'grad_norm': '1.092', 'learning_rate': '4.5e-06', 'epoch': '0.728'}
+
+  5%|▍         | 91/2000 [13:27<4:40:59,  8.83s/it]
+  5%|▍         | 92/2000 [13:36<4:38:26,  8.76s/it]
+                                                   
+{'loss': '1.081', 'grad_norm': '0.5114', 'learning_rate': '4.55e-06', 'epoch': '0.736'}
+
+  5%|▍         | 92/2000 [13:36<4:38:26,  8.76s/it]
+  5%|▍         | 93/2000 [13:45<4:39:27,  8.79s/it]
+                                                   
+{'loss': '0.9714', 'grad_norm': '0.5096', 'learning_rate': '4.6e-06', 'epoch': '0.744'}
+
+  5%|▍         | 93/2000 [13:45<4:39:27,  8.79s/it]
+  5%|▍         | 94/2000 [13:53<4:31:45,  8.56s/it]
+                                                   
+{'loss': '1.213', 'grad_norm': '0.8771', 'learning_rate': '4.65e-06', 'epoch': '0.752'}
+
+  5%|▍         | 94/2000 [13:53<4:31:45,  8.56s/it]
+  5%|▍         | 95/2000 [14:01<4:33:17,  8.61s/it]
+                                                   
+{'loss': '1.229', 'grad_norm': '0.5205', 'learning_rate': '4.7e-06', 'epoch': '0.76'}
+
+  5%|▍         | 95/2000 [14:01<4:33:17,  8.61s/it]
+  5%|▍         | 96/2000 [14:11<4:42:37,  8.91s/it]
+                                                   
+{'loss': '0.9761', 'grad_norm': '0.4409', 'learning_rate': '4.75e-06', 'epoch': '0.768'}
+
+  5%|▍         | 96/2000 [14:11<4:42:37,  8.91s/it]
+  5%|▍         | 97/2000 [14:19<4:33:53,  8.64s/it]
+                                                   
+{'loss': '1.627', 'grad_norm': '0.8821', 'learning_rate': '4.8e-06', 'epoch': '0.776'}
+
+  5%|▍         | 97/2000 [14:19<4:33:53,  8.64s/it]
+  5%|▍         | 98/2000 [14:28<4:35:56,  8.70s/it]
+                                                   
+{'loss': '0.9785', 'grad_norm': '0.4128', 'learning_rate': '4.85e-06', 'epoch': '0.784'}
+
+  5%|▍         | 98/2000 [14:28<4:35:56,  8.70s/it]
+  5%|▍         | 99/2000 [14:37<4:35:16,  8.69s/it]
+                                                   
+{'loss': '1.404', 'grad_norm': '0.9895', 'learning_rate': '4.9e-06', 'epoch': '0.792'}
+
+  5%|▍         | 99/2000 [14:37<4:35:16,  8.69s/it]
+  5%|▌         | 100/2000 [14:45<4:34:29,  8.67s/it]
+                                                    
+{'loss': '1.343', 'grad_norm': '0.8315', 'learning_rate': '4.95e-06', 'epoch': '0.8'}
+
+  5%|▌         | 100/2000 [14:45<4:34:29,  8.67s/it]
+  5%|▌         | 101/2000 [14:54<4:38:10,  8.79s/it]
+                                                    
+{'loss': '0.9586', 'grad_norm': '0.3956', 'learning_rate': '5e-06', 'epoch': '0.808'}
+
+  5%|▌         | 101/2000 [14:54<4:38:10,  8.79s/it]
+  5%|▌         | 102/2000 [15:03<4:38:20,  8.80s/it]
+                                                    
+{'loss': '1.637', 'grad_norm': '0.885', 'learning_rate': '5.05e-06', 'epoch': '0.816'}
+
+  5%|▌         | 102/2000 [15:03<4:38:20,  8.80s/it]
+  5%|▌         | 103/2000 [15:12<4:36:10,  8.74s/it]
+                                                    
+{'loss': '1.348', 'grad_norm': '1.109', 'learning_rate': '5.1e-06', 'epoch': '0.824'}
+
+  5%|▌         | 103/2000 [15:12<4:36:10,  8.74s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  5%|▌         | 104/2000 [15:21<4:40:25,  8.87s/it]
+                                                    
+{'loss': '1.395', 'grad_norm': '0.6603', 'learning_rate': '5.15e-06', 'epoch': '0.832'}
+
+  5%|▌         | 104/2000 [15:21<4:40:25,  8.87s/it]
+  5%|▌         | 105/2000 [15:30<4:40:10,  8.87s/it]
+                                                    
+{'loss': '1.007', 'grad_norm': '0.6213', 'learning_rate': '5.2e-06', 'epoch': '0.84'}
+
+  5%|▌         | 105/2000 [15:30<4:40:10,  8.87s/it]
+  5%|▌         | 106/2000 [15:38<4:37:07,  8.78s/it]
+                                                    
+{'loss': '1.254', 'grad_norm': '0.8618', 'learning_rate': '5.25e-06', 'epoch': '0.848'}
+
+  5%|▌         | 106/2000 [15:38<4:37:07,  8.78s/it]
+  5%|▌         | 107/2000 [15:47<4:38:55,  8.84s/it]
+                                                    
+{'loss': '1.689', 'grad_norm': '2.082', 'learning_rate': '5.3e-06', 'epoch': '0.856'}
+
+  5%|▌         | 107/2000 [15:47<4:38:55,  8.84s/it]
+  5%|▌         | 108/2000 [15:56<4:38:32,  8.83s/it]
+                                                    
+{'loss': '1.299', 'grad_norm': '0.5562', 'learning_rate': '5.35e-06', 'epoch': '0.864'}
+
+  5%|▌         | 108/2000 [15:56<4:38:32,  8.83s/it]
+  5%|▌         | 109/2000 [16:04<4:29:03,  8.54s/it]
+                                                    
+{'loss': '1.731', 'grad_norm': '0.912', 'learning_rate': '5.4e-06', 'epoch': '0.872'}
+
+  5%|▌         | 109/2000 [16:04<4:29:03,  8.54s/it]
+  6%|▌         | 110/2000 [16:13<4:36:32,  8.78s/it]
+                                                    
+{'loss': '1.357', 'grad_norm': '0.951', 'learning_rate': '5.45e-06', 'epoch': '0.88'}
+
+  6%|▌         | 110/2000 [16:13<4:36:32,  8.78s/it]
+  6%|▌         | 111/2000 [16:21<4:28:05,  8.52s/it]
+                                                    
+{'loss': '1.407', 'grad_norm': '0.9733', 'learning_rate': '5.5e-06', 'epoch': '0.888'}
+
+  6%|▌         | 111/2000 [16:21<4:28:05,  8.52s/it]
+  6%|▌         | 112/2000 [16:29<4:26:10,  8.46s/it]
+                                                    
+{'loss': '1.194', 'grad_norm': '1.014', 'learning_rate': '5.55e-06', 'epoch': '0.896'}
+
+  6%|▌         | 112/2000 [16:30<4:26:10,  8.46s/it]
+  6%|▌         | 113/2000 [16:39<4:37:05,  8.81s/it]
+                                                    
+{'loss': '1.277', 'grad_norm': '0.8407', 'learning_rate': '5.6e-06', 'epoch': '0.904'}
+
+  6%|▌         | 113/2000 [16:39<4:37:05,  8.81s/it]
+  6%|▌         | 114/2000 [16:47<4:30:15,  8.60s/it]
+                                                    
+{'loss': '1.222', 'grad_norm': '1.014', 'learning_rate': '5.65e-06', 'epoch': '0.912'}
+
+  6%|▌         | 114/2000 [16:47<4:30:15,  8.60s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  6%|▌         | 115/2000 [16:59<5:00:50,  9.58s/it]
+                                                    
+{'loss': '1.395', 'grad_norm': '0.4512', 'learning_rate': '5.7e-06', 'epoch': '0.92'}
+
+  6%|▌         | 115/2000 [16:59<5:00:50,  9.58s/it]
+  6%|▌         | 116/2000 [17:08<4:56:06,  9.43s/it]
+                                                    
+{'loss': '1.25', 'grad_norm': '0.4034', 'learning_rate': '5.75e-06', 'epoch': '0.928'}
+
+  6%|▌         | 116/2000 [17:08<4:56:06,  9.43s/it]
+  6%|▌         | 117/2000 [17:16<4:45:01,  9.08s/it]
+                                                    
+{'loss': '1.171', 'grad_norm': '0.3834', 'learning_rate': '5.8e-06', 'epoch': '0.936'}
+
+  6%|▌         | 117/2000 [17:16<4:45:01,  9.08s/it]
+  6%|▌         | 118/2000 [17:26<4:46:34,  9.14s/it]
+                                                    
+{'loss': '1.238', 'grad_norm': '0.5835', 'learning_rate': '5.85e-06', 'epoch': '0.944'}
+
+  6%|▌         | 118/2000 [17:26<4:46:34,  9.14s/it]
+  6%|▌         | 119/2000 [17:34<4:38:23,  8.88s/it]
+                                                    
+{'loss': '1.181', 'grad_norm': '1.258', 'learning_rate': '5.9e-06', 'epoch': '0.952'}
+
+  6%|▌         | 119/2000 [17:34<4:38:23,  8.88s/it]
+  6%|▌         | 120/2000 [17:42<4:33:54,  8.74s/it]
+                                                    
+{'loss': '1.432', 'grad_norm': '1.323', 'learning_rate': '5.95e-06', 'epoch': '0.96'}
+
+  6%|▌         | 120/2000 [17:42<4:33:54,  8.74s/it]
+  6%|▌         | 121/2000 [17:51<4:37:06,  8.85s/it]
+                                                    
+{'loss': '1.242', 'grad_norm': '0.8494', 'learning_rate': '6e-06', 'epoch': '0.968'}
+
+  6%|▌         | 121/2000 [17:51<4:37:06,  8.85s/it]
+  6%|▌         | 122/2000 [18:00<4:36:19,  8.83s/it]
+                                                    
+{'loss': '0.9619', 'grad_norm': '0.304', 'learning_rate': '6.05e-06', 'epoch': '0.976'}
+
+  6%|▌         | 122/2000 [18:00<4:36:19,  8.83s/it]
+  6%|▌         | 123/2000 [18:10<4:40:31,  8.97s/it]
+                                                    
+{'loss': '0.9307', 'grad_norm': '0.8091', 'learning_rate': '6.1e-06', 'epoch': '0.984'}
+
+  6%|▌         | 123/2000 [18:10<4:40:31,  8.97s/it]
+  6%|▌         | 124/2000 [18:18<4:40:16,  8.96s/it]
+                                                    
+{'loss': '1.1', 'grad_norm': '0.7793', 'learning_rate': '6.15e-06', 'epoch': '0.992'}
+
+  6%|▌         | 124/2000 [18:19<4:40:16,  8.96s/it]
+  6%|▋         | 125/2000 [18:28<4:41:15,  9.00s/it]
+                                                    
+{'loss': '1.114', 'grad_norm': '0.3259', 'learning_rate': '6.2e-06', 'epoch': '1'}
+
+  6%|▋         | 125/2000 [18:28<4:41:15,  9.00s/it]
+  6%|▋         | 126/2000 [18:37<4:49:25,  9.27s/it]
+                                                    
+{'loss': '1.07', 'grad_norm': '0.4723', 'learning_rate': '6.25e-06', 'epoch': '1.008'}
+
+  6%|▋         | 126/2000 [18:37<4:49:25,  9.27s/it]
+  6%|▋         | 127/2000 [18:46<4:46:45,  9.19s/it]
+                                                    
+{'loss': '1.476', 'grad_norm': '0.6318', 'learning_rate': '6.3e-06', 'epoch': '1.016'}
+
+  6%|▋         | 127/2000 [18:47<4:46:45,  9.19s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  6%|▋         | 128/2000 [18:56<4:45:36,  9.15s/it]
+                                                    
+{'loss': '1.286', 'grad_norm': '0.5719', 'learning_rate': '6.35e-06', 'epoch': '1.024'}
+
+  6%|▋         | 128/2000 [18:56<4:45:36,  9.15s/it]
+  6%|▋         | 129/2000 [19:04<4:39:20,  8.96s/it]
+                                                    
+{'loss': '0.9692', 'grad_norm': '0.43', 'learning_rate': '6.4e-06', 'epoch': '1.032'}
+
+  6%|▋         | 129/2000 [19:04<4:39:20,  8.96s/it]
+  6%|▋         | 130/2000 [19:13<4:35:02,  8.82s/it]
+                                                    
+{'loss': '1.105', 'grad_norm': '0.659', 'learning_rate': '6.45e-06', 'epoch': '1.04'}
+
+  6%|▋         | 130/2000 [19:13<4:35:02,  8.82s/it]
+  7%|▋         | 131/2000 [19:21<4:28:53,  8.63s/it]
+                                                    
+{'loss': '1.028', 'grad_norm': '0.8612', 'learning_rate': '6.5e-06', 'epoch': '1.048'}
+
+  7%|▋         | 131/2000 [19:21<4:28:53,  8.63s/it]
+  7%|▋         | 132/2000 [19:30<4:36:21,  8.88s/it]
+                                                    
+{'loss': '1.065', 'grad_norm': '0.5212', 'learning_rate': '6.55e-06', 'epoch': '1.056'}
+
+  7%|▋         | 132/2000 [19:30<4:36:21,  8.88s/it]
+  7%|▋         | 133/2000 [19:39<4:35:40,  8.86s/it]
+                                                    
+{'loss': '1.114', 'grad_norm': '0.7881', 'learning_rate': '6.6e-06', 'epoch': '1.064'}
+
+  7%|▋         | 133/2000 [19:39<4:35:40,  8.86s/it]
+  7%|▋         | 134/2000 [19:48<4:36:53,  8.90s/it]
+                                                    
+{'loss': '1.121', 'grad_norm': '0.6647', 'learning_rate': '6.65e-06', 'epoch': '1.072'}
+
+  7%|▋         | 134/2000 [19:48<4:36:53,  8.90s/it]
+  7%|▋         | 135/2000 [19:56<4:29:51,  8.68s/it]
+                                                    
+{'loss': '1.242', 'grad_norm': '1.044', 'learning_rate': '6.7e-06', 'epoch': '1.08'}
+
+  7%|▋         | 135/2000 [19:56<4:29:51,  8.68s/it]
+  7%|▋         | 136/2000 [20:06<4:36:36,  8.90s/it]
+                                                    
+{'loss': '1.058', 'grad_norm': '0.5099', 'learning_rate': '6.75e-06', 'epoch': '1.088'}
+
+  7%|▋         | 136/2000 [20:06<4:36:36,  8.90s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  7%|▋         | 137/2000 [20:17<5:00:07,  9.67s/it]
+                                                    
+{'loss': '1.019', 'grad_norm': '1.188', 'learning_rate': '6.8e-06', 'epoch': '1.096'}
+
+  7%|▋         | 137/2000 [20:17<5:00:07,  9.67s/it]
+  7%|▋         | 138/2000 [20:26<4:53:50,  9.47s/it]
+                                                    
+{'loss': '1.271', 'grad_norm': '1.071', 'learning_rate': '6.85e-06', 'epoch': '1.104'}
+
+  7%|▋         | 138/2000 [20:26<4:53:50,  9.47s/it]
+  7%|▋         | 139/2000 [20:35<4:44:31,  9.17s/it]
+                                                    
+{'loss': '1.13', 'grad_norm': '0.5232', 'learning_rate': '6.9e-06', 'epoch': '1.112'}
+
+  7%|▋         | 139/2000 [20:35<4:44:31,  9.17s/it]
+  7%|▋         | 140/2000 [20:43<4:39:59,  9.03s/it]
+                                                    
+{'loss': '0.8613', 'grad_norm': '0.5847', 'learning_rate': '6.95e-06', 'epoch': '1.12'}
+
+  7%|▋         | 140/2000 [20:43<4:39:59,  9.03s/it]
+  7%|▋         | 141/2000 [20:52<4:37:37,  8.96s/it]
+                                                    
+{'loss': '0.8408', 'grad_norm': '1.046', 'learning_rate': '7e-06', 'epoch': '1.128'}
+
+  7%|▋         | 141/2000 [20:52<4:37:37,  8.96s/it]
+  7%|▋         | 142/2000 [21:00<4:30:41,  8.74s/it]
+                                                    
+{'loss': '0.9258', 'grad_norm': '0.7556', 'learning_rate': '7.05e-06', 'epoch': '1.136'}
+
+  7%|▋         | 142/2000 [21:00<4:30:41,  8.74s/it]
+  7%|▋         | 143/2000 [21:08<4:22:48,  8.49s/it]
+                                                    
+{'loss': '1.656', 'grad_norm': '2.735', 'learning_rate': '7.1e-06', 'epoch': '1.144'}
+
+  7%|▋         | 143/2000 [21:08<4:22:48,  8.49s/it]
+  7%|▋         | 144/2000 [21:17<4:25:53,  8.60s/it]
+                                                    
+{'loss': '1.081', 'grad_norm': '0.8938', 'learning_rate': '7.15e-06', 'epoch': '1.152'}
+
+  7%|▋         | 144/2000 [21:17<4:25:53,  8.60s/it]
+  7%|▋         | 145/2000 [21:25<4:17:38,  8.33s/it]
+                                                    
+{'loss': '1.139', 'grad_norm': '0.7793', 'learning_rate': '7.2e-06', 'epoch': '1.16'}
+
+  7%|▋         | 145/2000 [21:25<4:17:38,  8.33s/it]
+  7%|▋         | 146/2000 [21:34<4:24:18,  8.55s/it]
+                                                    
+{'loss': '1.251', 'grad_norm': '1.065', 'learning_rate': '7.25e-06', 'epoch': '1.168'}
+
+  7%|▋         | 146/2000 [21:34<4:24:18,  8.55s/it]
+  7%|▋         | 147/2000 [21:42<4:25:05,  8.58s/it]
+                                                    
+{'loss': '0.8364', 'grad_norm': '0.6224', 'learning_rate': '7.3e-06', 'epoch': '1.176'}
+
+  7%|▋         | 147/2000 [21:43<4:25:05,  8.58s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+[WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  7%|▋         | 148/2000 [21:52<4:32:48,  8.84s/it]
+                                                    
+{'loss': '1.186', 'grad_norm': '0.8356', 'learning_rate': '7.35e-06', 'epoch': '1.184'}
+
+  7%|▋         | 148/2000 [21:52<4:32:48,  8.84s/it]
+  7%|▋         | 149/2000 [22:00<4:30:09,  8.76s/it]
+                                                    
+{'loss': '1.206', 'grad_norm': '0.6883', 'learning_rate': '7.4e-06', 'epoch': '1.192'}
+
+  7%|▋         | 149/2000 [22:00<4:30:09,  8.76s/it]
+  8%|▊         | 150/2000 [22:09<4:23:32,  8.55s/it]
+                                                    
+{'loss': '1.307', 'grad_norm': '0.9828', 'learning_rate': '7.45e-06', 'epoch': '1.2'}
+
+  8%|▊         | 150/2000 [22:09<4:23:32,  8.55s/it]
+  8%|▊         | 151/2000 [22:18<4:32:34,  8.84s/it]
+                                                    
+{'loss': '1.012', 'grad_norm': '0.735', 'learning_rate': '7.5e-06', 'epoch': '1.208'}
+
+  8%|▊         | 151/2000 [22:18<4:32:34,  8.84s/it]
+  8%|▊         | 152/2000 [22:27<4:30:57,  8.80s/it]
+                                                    
+{'loss': '0.7108', 'grad_norm': '0.8266', 'learning_rate': '7.55e-06', 'epoch': '1.216'}
+
+  8%|▊         | 152/2000 [22:27<4:30:57,  8.80s/it]
+  8%|▊         | 153/2000 [22:36<4:32:39,  8.86s/it]
+                                                    
+{'loss': '0.8267', 'grad_norm': '0.9314', 'learning_rate': '7.6e-06', 'epoch': '1.224'}
+
+  8%|▊         | 153/2000 [22:36<4:32:39,  8.86s/it]
+  8%|▊         | 154/2000 [22:45<4:32:59,  8.87s/it]
+                                                    
+{'loss': '0.9409', 'grad_norm': '0.3172', 'learning_rate': '7.65e-06', 'epoch': '1.232'}
+
+  8%|▊         | 154/2000 [22:45<4:32:59,  8.87s/it]
+  8%|▊         | 155/2000 [22:53<4:26:49,  8.68s/it]
+                                                    
+{'loss': '1.185', 'grad_norm': '0.6819', 'learning_rate': '7.7e-06', 'epoch': '1.24'}
+
+  8%|▊         | 155/2000 [22:53<4:26:49,  8.68s/it]
+  8%|▊         | 156/2000 [23:02<4:29:03,  8.75s/it]
+                                                    
+{'loss': '0.739', 'grad_norm': '0.2967', 'learning_rate': '7.75e-06', 'epoch': '1.248'}
+
+  8%|▊         | 156/2000 [23:02<4:29:03,  8.75s/it]
+  8%|▊         | 157/2000 [23:11<4:29:11,  8.76s/it]
+                                                    
+{'loss': '0.9634', 'grad_norm': '1.219', 'learning_rate': '7.8e-06', 'epoch': '1.256'}
+
+  8%|▊         | 157/2000 [23:11<4:29:11,  8.76s/it]
+  8%|▊         | 158/2000 [23:19<4:27:38,  8.72s/it]
+                                                    
+{'loss': '0.9575', 'grad_norm': '0.2763', 'learning_rate': '7.85e-06', 'epoch': '1.264'}
+
+  8%|▊         | 158/2000 [23:19<4:27:38,  8.72s/it]
+  8%|▊         | 159/2000 [23:28<4:27:03,  8.70s/it]
+                                                    
+{'loss': '0.9097', 'grad_norm': '0.4325', 'learning_rate': '7.9e-06', 'epoch': '1.272'}
+
+  8%|▊         | 159/2000 [23:28<4:27:03,  8.70s/it]
+  8%|▊         | 160/2000 [23:37<4:26:33,  8.69s/it]
+                                                    
+{'loss': '0.8763', 'grad_norm': '0.9618', 'learning_rate': '7.95e-06', 'epoch': '1.28'}
+
+  8%|▊         | 160/2000 [23:37<4:26:33,  8.69s/it]
+  8%|▊         | 161/2000 [23:46<4:33:11,  8.91s/it]
+                                                    
+{'loss': '1.109', 'grad_norm': '0.5595', 'learning_rate': '8e-06', 'epoch': '1.288'}
+
+  8%|▊         | 161/2000 [23:46<4:33:11,  8.91s/it]
+  8%|▊         | 162/2000 [23:54<4:23:58,  8.62s/it]
+                                                    
+{'loss': '1.02', 'grad_norm': '1.027', 'learning_rate': '8.05e-06', 'epoch': '1.296'}
+
+  8%|▊         | 162/2000 [23:54<4:23:58,  8.62s/it]
+  8%|▊         | 163/2000 [24:03<4:27:09,  8.73s/it]
+                                                    
+{'loss': '1.234', 'grad_norm': '0.3371', 'learning_rate': '8.1e-06', 'epoch': '1.304'}
+
+  8%|▊         | 163/2000 [24:03<4:27:09,  8.73s/it]
+  8%|▊         | 164/2000 [24:12<4:29:22,  8.80s/it]
+                                                    
+{'loss': '0.5642', 'grad_norm': '0.8606', 'learning_rate': '8.15e-06', 'epoch': '1.312'}
+
+  8%|▊         | 164/2000 [24:12<4:29:22,  8.80s/it]
+  8%|▊         | 165/2000 [24:20<4:23:35,  8.62s/it]
+                                                    
+{'loss': '1.005', 'grad_norm': '0.3076', 'learning_rate': '8.2e-06', 'epoch': '1.32'}
+
+  8%|▊         | 165/2000 [24:20<4:23:35,  8.62s/it]
+  8%|▊         | 166/2000 [24:28<4:18:29,  8.46s/it]
+                                                    
+{'loss': '0.8649', 'grad_norm': '1.084', 'learning_rate': '8.25e-06', 'epoch': '1.328'}
+
+  8%|▊         | 166/2000 [24:28<4:18:29,  8.46s/it]
+  8%|▊         | 167/2000 [24:37<4:25:17,  8.68s/it]
+                                                    
+{'loss': '1.135', 'grad_norm': '0.7226', 'learning_rate': '8.3e-06', 'epoch': '1.336'}
+
+  8%|▊         | 167/2000 [24:37<4:25:17,  8.68s/it]
+  8%|▊         | 168/2000 [24:46<4:22:29,  8.60s/it]
+                                                    
+{'loss': '0.9229', 'grad_norm': '0.5707', 'learning_rate': '8.35e-06', 'epoch': '1.344'}
+
+  8%|▊         | 168/2000 [24:46<4:22:29,  8.60s/it]
+  8%|▊         | 169/2000 [24:55<4:29:08,  8.82s/it]
+                                                    
+{'loss': '0.7676', 'grad_norm': '0.4894', 'learning_rate': '8.4e-06', 'epoch': '1.352'}
+
+  8%|▊         | 169/2000 [24:55<4:29:08,  8.82s/it]
+  8%|▊         | 170/2000 [25:05<4:34:57,  9.01s/it]
+                                                    
+{'loss': '1.044', 'grad_norm': '0.5009', 'learning_rate': '8.45e-06', 'epoch': '1.36'}
+
+  8%|▊         | 170/2000 [25:05<4:34:57,  9.01s/it]
+  9%|▊         | 171/2000 [25:13<4:29:49,  8.85s/it]
+                                                    
+{'loss': '1.154', 'grad_norm': '0.342', 'learning_rate': '8.5e-06', 'epoch': '1.368'}
+
+  9%|▊         | 171/2000 [25:13<4:29:49,  8.85s/it]
+  9%|▊         | 172/2000 [25:22<4:28:36,  8.82s/it]
+                                                    
+{'loss': '1.056', 'grad_norm': '0.7292', 'learning_rate': '8.55e-06', 'epoch': '1.376'}
+
+  9%|▊         | 172/2000 [25:22<4:28:36,  8.82s/it]
+  9%|▊         | 173/2000 [25:30<4:25:48,  8.73s/it]
+                                                    
+{'loss': '0.7288', 'grad_norm': '0.3359', 'learning_rate': '8.6e-06', 'epoch': '1.384'}
+
+  9%|▊         | 173/2000 [25:30<4:25:48,  8.73s/it]
+  9%|▊         | 174/2000 [25:39<4:21:12,  8.58s/it]
+                                                    
+{'loss': '0.9919', 'grad_norm': '0.4832', 'learning_rate': '8.65e-06', 'epoch': '1.392'}
+
+  9%|▊         | 174/2000 [25:39<4:21:12,  8.58s/it]
+  9%|▉         | 175/2000 [25:48<4:24:52,  8.71s/it]
+                                                    
+{'loss': '1.13', 'grad_norm': '0.8857', 'learning_rate': '8.7e-06', 'epoch': '1.4'}
+
+  9%|▉         | 175/2000 [25:48<4:24:52,  8.71s/it]
+  9%|▉         | 176/2000 [25:56<4:26:08,  8.75s/it]
+                                                    
+{'loss': '0.7878', 'grad_norm': '0.3986', 'learning_rate': '8.75e-06', 'epoch': '1.408'}
+
+  9%|▉         | 176/2000 [25:56<4:26:08,  8.75s/it]
+  9%|▉         | 177/2000 [26:05<4:25:17,  8.73s/it]
+                                                    
+{'loss': '0.7817', 'grad_norm': '0.5534', 'learning_rate': '8.8e-06', 'epoch': '1.416'}
+
+  9%|▉         | 177/2000 [26:05<4:25:17,  8.73s/it]
+  9%|▉         | 178/2000 [26:14<4:27:17,  8.80s/it]
+                                                    
+{'loss': '1.039', 'grad_norm': '0.5599', 'learning_rate': '8.85e-06', 'epoch': '1.424'}
+
+  9%|▉         | 178/2000 [26:14<4:27:17,  8.80s/it]
+  9%|▉         | 179/2000 [26:22<4:22:09,  8.64s/it]
+                                                    
+{'loss': '0.9493', 'grad_norm': '0.2794', 'learning_rate': '8.9e-06', 'epoch': '1.432'}
+
+  9%|▉         | 179/2000 [26:22<4:22:09,  8.64s/it]
+  9%|▉         | 180/2000 [26:31<4:23:55,  8.70s/it]
+                                                    
+{'loss': '0.8406', 'grad_norm': '0.5463', 'learning_rate': '8.95e-06', 'epoch': '1.44'}
+
+  9%|▉         | 180/2000 [26:31<4:23:55,  8.70s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+  9%|▉         | 181/2000 [26:40<4:29:52,  8.90s/it]
+                                                    
+{'loss': '0.7863', 'grad_norm': '0.179', 'learning_rate': '9e-06', 'epoch': '1.448'}
+
+  9%|▉         | 181/2000 [26:41<4:29:52,  8.90s/it]
+  9%|▉         | 182/2000 [26:50<4:31:26,  8.96s/it]
+                                                    
+{'loss': '0.7175', 'grad_norm': '0.675', 'learning_rate': '9.05e-06', 'epoch': '1.456'}
+
+  9%|▉         | 182/2000 [26:50<4:31:26,  8.96s/it]
+  9%|▉         | 183/2000 [26:58<4:26:53,  8.81s/it]
+                                                    
+{'loss': '1.009', 'grad_norm': '0.3552', 'learning_rate': '9.1e-06', 'epoch': '1.464'}
+
+  9%|▉         | 183/2000 [26:58<4:26:53,  8.81s/it]
+  9%|▉         | 184/2000 [27:07<4:25:09,  8.76s/it]
+                                                    
+{'loss': '0.7833', 'grad_norm': '0.3797', 'learning_rate': '9.15e-06', 'epoch': '1.472'}
+
+  9%|▉         | 184/2000 [27:07<4:25:09,  8.76s/it]
+  9%|▉         | 185/2000 [27:15<4:20:47,  8.62s/it]
+                                                    
+{'loss': '1.021', 'grad_norm': '0.7166', 'learning_rate': '9.2e-06', 'epoch': '1.48'}
+
+  9%|▉         | 185/2000 [27:15<4:20:47,  8.62s/it]
+  9%|▉         | 186/2000 [27:24<4:25:03,  8.77s/it]
+                                                    
+{'loss': '0.7159', 'grad_norm': '0.2785', 'learning_rate': '9.25e-06', 'epoch': '1.488'}
+
+  9%|▉         | 186/2000 [27:24<4:25:03,  8.77s/it]
+  9%|▉         | 187/2000 [27:32<4:20:08,  8.61s/it]
+                                                    
+{'loss': '0.6737', 'grad_norm': '0.6976', 'learning_rate': '9.3e-06', 'epoch': '1.496'}
+
+  9%|▉         | 187/2000 [27:32<4:20:08,  8.61s/it]
+  9%|▉         | 188/2000 [27:41<4:18:11,  8.55s/it]
+                                                    
+{'loss': '0.7883', 'grad_norm': '0.4501', 'learning_rate': '9.35e-06', 'epoch': '1.504'}
+
+  9%|▉         | 188/2000 [27:41<4:18:11,  8.55s/it]
+  9%|▉         | 189/2000 [27:49<4:17:49,  8.54s/it]
+                                                    
+{'loss': '0.954', 'grad_norm': '0.4133', 'learning_rate': '9.4e-06', 'epoch': '1.512'}
+
+  9%|▉         | 189/2000 [27:49<4:17:49,  8.54s/it]
+ 10%|▉         | 190/2000 [27:58<4:21:40,  8.67s/it]
+                                                    
+{'loss': '0.6841', 'grad_norm': '0.283', 'learning_rate': '9.45e-06', 'epoch': '1.52'}
+
+ 10%|▉         | 190/2000 [27:58<4:21:40,  8.67s/it]
+ 10%|▉         | 191/2000 [28:07<4:25:52,  8.82s/it]
+                                                    
+{'loss': '0.7281', 'grad_norm': '0.2864', 'learning_rate': '9.5e-06', 'epoch': '1.528'}
+
+ 10%|▉         | 191/2000 [28:07<4:25:52,  8.82s/it]
+ 10%|▉         | 192/2000 [28:16<4:23:02,  8.73s/it]
+                                                    
+{'loss': '0.9697', 'grad_norm': '0.294', 'learning_rate': '9.55e-06', 'epoch': '1.536'}
+
+ 10%|▉         | 192/2000 [28:16<4:23:02,  8.73s/it]
+ 10%|▉         | 193/2000 [28:25<4:26:14,  8.84s/it]
+                                                    
+{'loss': '1.158', 'grad_norm': '0.4746', 'learning_rate': '9.6e-06', 'epoch': '1.544'}
+
+ 10%|▉         | 193/2000 [28:25<4:26:14,  8.84s/it]
+ 10%|▉         | 194/2000 [28:34<4:23:31,  8.76s/it]
+                                                    
+{'loss': '0.978', 'grad_norm': '0.2646', 'learning_rate': '9.65e-06', 'epoch': '1.552'}
+
+ 10%|▉         | 194/2000 [28:34<4:23:31,  8.76s/it]
+ 10%|▉         | 195/2000 [28:43<4:26:12,  8.85s/it]
+                                                    
+{'loss': '0.8945', 'grad_norm': '0.4806', 'learning_rate': '9.7e-06', 'epoch': '1.56'}
+
+ 10%|▉         | 195/2000 [28:43<4:26:12,  8.85s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+ 10%|▉         | 196/2000 [28:52<4:30:56,  9.01s/it]
+                                                    
+{'loss': '1.019', 'grad_norm': '0.4799', 'learning_rate': '9.75e-06', 'epoch': '1.568'}
+
+ 10%|▉         | 196/2000 [28:52<4:30:56,  9.01s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+ 10%|▉         | 197/2000 [29:01<4:34:01,  9.12s/it]
+                                                    
+{'loss': '0.9286', 'grad_norm': '0.3094', 'learning_rate': '9.8e-06', 'epoch': '1.576'}
+
+ 10%|▉         | 197/2000 [29:01<4:34:01,  9.12s/it]
+ 10%|▉         | 198/2000 [29:10<4:29:31,  8.97s/it]
+                                                    
+{'loss': '0.6703', 'grad_norm': '0.288', 'learning_rate': '9.85e-06', 'epoch': '1.584'}
+
+ 10%|▉         | 198/2000 [29:10<4:29:31,  8.97s/it]
+ 10%|▉         | 199/2000 [29:19<4:33:16,  9.10s/it]
+                                                    
+{'loss': '0.8779', 'grad_norm': '0.3303', 'learning_rate': '9.9e-06', 'epoch': '1.592'}
+
+ 10%|▉         | 199/2000 [29:19<4:33:16,  9.10s/it]
+ 10%|█         | 200/2000 [29:28<4:25:47,  8.86s/it]
+                                                    
+{'loss': '0.8099', 'grad_norm': '0.609', 'learning_rate': '9.95e-06', 'epoch': '1.6'}
+
+ 10%|█         | 200/2000 [29:28<4:25:47,  8.86s/it]
+ 10%|█         | 201/2000 [29:37<4:26:13,  8.88s/it]
+                                                    
+{'loss': '0.9509', 'grad_norm': '0.3443', 'learning_rate': '1e-05', 'epoch': '1.608'}
+
+ 10%|█         | 201/2000 [29:37<4:26:13,  8.88s/it]
+ 10%|█         | 202/2000 [29:45<4:24:11,  8.82s/it]
+                                                    
+{'loss': '0.7291', 'grad_norm': '0.5041', 'learning_rate': '1e-05', 'epoch': '1.616'}
+
+ 10%|█         | 202/2000 [29:45<4:24:11,  8.82s/it]
+ 10%|█         | 203/2000 [29:54<4:23:10,  8.79s/it]
+                                                    
+{'loss': '1.196', 'grad_norm': '0.33', 'learning_rate': '1e-05', 'epoch': '1.624'}
+
+ 10%|█         | 203/2000 [29:54<4:23:10,  8.79s/it]
+ 10%|█         | 204/2000 [30:03<4:20:15,  8.69s/it]
+                                                    
+{'loss': '0.7281', 'grad_norm': '0.3413', 'learning_rate': '1e-05', 'epoch': '1.632'}
+
+ 10%|█         | 204/2000 [30:03<4:20:15,  8.69s/it]
+ 10%|█         | 205/2000 [30:11<4:19:12,  8.66s/it]
+                                                    
+{'loss': '0.5847', 'grad_norm': '0.326', 'learning_rate': '1e-05', 'epoch': '1.64'}
+
+ 10%|█         | 205/2000 [30:11<4:19:12,  8.66s/it]
+ 10%|█         | 206/2000 [30:20<4:21:27,  8.74s/it]
+                                                    
+{'loss': '0.8511', 'grad_norm': '0.3655', 'learning_rate': '1e-05', 'epoch': '1.648'}
+
+ 10%|█         | 206/2000 [30:20<4:21:27,  8.74s/it]
+ 10%|█         | 207/2000 [30:29<4:23:56,  8.83s/it]
+                                                    
+{'loss': '0.7925', 'grad_norm': '0.2185', 'learning_rate': '1e-05', 'epoch': '1.656'}
+
+ 10%|█         | 207/2000 [30:29<4:23:56,  8.83s/it]
+ 10%|█         | 208/2000 [30:37<4:19:18,  8.68s/it]
+                                                    
+{'loss': '0.7439', 'grad_norm': '0.3486', 'learning_rate': '1e-05', 'epoch': '1.664'}
+
+ 10%|█         | 208/2000 [30:38<4:19:18,  8.68s/it]
+ 10%|█         | 209/2000 [30:47<4:27:39,  8.97s/it]
+                                                    
+{'loss': '0.8765', 'grad_norm': '0.2588', 'learning_rate': '1e-05', 'epoch': '1.672'}
+
+ 10%|█         | 209/2000 [30:47<4:27:39,  8.97s/it]
+ 10%|█         | 210/2000 [30:55<4:18:04,  8.65s/it]
+                                                    
+{'loss': '0.7039', 'grad_norm': '0.8309', 'learning_rate': '9.999e-06', 'epoch': '1.68'}
+
+ 10%|█         | 210/2000 [30:55<4:18:04,  8.65s/it]
+ 11%|█         | 211/2000 [31:04<4:20:44,  8.74s/it]
+                                                    
+{'loss': '0.7019', 'grad_norm': '0.2341', 'learning_rate': '9.999e-06', 'epoch': '1.688'}
+
+ 11%|█         | 211/2000 [31:04<4:20:44,  8.74s/it]
+ 11%|█         | 212/2000 [31:13<4:20:43,  8.75s/it]
+                                                    
+{'loss': '1.113', 'grad_norm': '0.5018', 'learning_rate': '9.999e-06', 'epoch': '1.696'}
+
+ 11%|█         | 212/2000 [31:13<4:20:43,  8.75s/it]
+ 11%|█         | 213/2000 [31:21<4:13:17,  8.50s/it]
+                                                    
+{'loss': '0.6827', 'grad_norm': '0.247', 'learning_rate': '9.999e-06', 'epoch': '1.704'}
+
+ 11%|█         | 213/2000 [31:21<4:13:17,  8.50s/it]
+ 11%|█         | 214/2000 [31:30<4:20:34,  8.75s/it]
+                                                    
+{'loss': '0.9209', 'grad_norm': '0.2692', 'learning_rate': '9.999e-06', 'epoch': '1.712'}
+
+ 11%|█         | 214/2000 [31:30<4:20:34,  8.75s/it]
+ 11%|█         | 215/2000 [31:39<4:21:53,  8.80s/it]
+                                                    
+{'loss': '0.7651', 'grad_norm': '0.3288', 'learning_rate': '9.999e-06', 'epoch': '1.72'}
+
+ 11%|█         | 215/2000 [31:39<4:21:53,  8.80s/it]
+ 11%|█         | 216/2000 [31:48<4:26:34,  8.97s/it]
+                                                    
+{'loss': '0.7385', 'grad_norm': '0.2549', 'learning_rate': '9.998e-06', 'epoch': '1.728'}
+
+ 11%|█         | 216/2000 [31:48<4:26:34,  8.97s/it]
+ 11%|█         | 217/2000 [31:57<4:25:30,  8.93s/it]
+                                                    
+{'loss': '1.017', 'grad_norm': '0.3788', 'learning_rate': '9.998e-06', 'epoch': '1.736'}
+
+ 11%|█         | 217/2000 [31:57<4:25:30,  8.93s/it]
+ 11%|█         | 218/2000 [32:05<4:19:25,  8.73s/it]
+                                                    
+{'loss': '0.9089', 'grad_norm': '0.3191', 'learning_rate': '9.998e-06', 'epoch': '1.744'}
+
+ 11%|█         | 218/2000 [32:05<4:19:25,  8.73s/it]
+ 11%|█         | 219/2000 [32:14<4:18:10,  8.70s/it]
+                                                    
+{'loss': '0.8359', 'grad_norm': '0.2658', 'learning_rate': '9.998e-06', 'epoch': '1.752'}
+
+ 11%|█         | 219/2000 [32:14<4:18:10,  8.70s/it]
+ 11%|█         | 220/2000 [32:23<4:23:09,  8.87s/it]
+                                                    
+{'loss': '0.7961', 'grad_norm': '0.4615', 'learning_rate': '9.997e-06', 'epoch': '1.76'}
+
+ 11%|█         | 220/2000 [32:23<4:23:09,  8.87s/it]
+ 11%|█         | 221/2000 [32:32<4:19:59,  8.77s/it]
+                                                    
+{'loss': '0.7328', 'grad_norm': '0.413', 'learning_rate': '9.997e-06', 'epoch': '1.768'}
+
+ 11%|█         | 221/2000 [32:32<4:19:59,  8.77s/it]
+ 11%|█         | 222/2000 [32:40<4:13:52,  8.57s/it]
+                                                    
+{'loss': '0.6606', 'grad_norm': '0.3247', 'learning_rate': '9.997e-06', 'epoch': '1.776'}
+
+ 11%|█         | 222/2000 [32:40<4:13:52,  8.57s/it]
+ 11%|█         | 223/2000 [32:48<4:12:56,  8.54s/it]
+                                                    
+{'loss': '1.085', 'grad_norm': '0.2864', 'learning_rate': '9.996e-06', 'epoch': '1.784'}
+
+ 11%|█         | 223/2000 [32:48<4:12:56,  8.54s/it]
+ 11%|█         | 224/2000 [32:57<4:13:31,  8.56s/it]
+                                                    
+{'loss': '0.8', 'grad_norm': '0.2887', 'learning_rate': '9.996e-06', 'epoch': '1.792'}
+
+ 11%|█         | 224/2000 [32:57<4:13:31,  8.56s/it]
+ 11%|█▏        | 225/2000 [33:05<4:11:07,  8.49s/it]
+                                                    
+{'loss': '0.6834', 'grad_norm': '0.4218', 'learning_rate': '9.996e-06', 'epoch': '1.8'}
+
+ 11%|█▏        | 225/2000 [33:05<4:11:07,  8.49s/it]
+ 11%|█▏        | 226/2000 [33:14<4:10:23,  8.47s/it]
+                                                    
+{'loss': '0.9458', 'grad_norm': '0.4414', 'learning_rate': '9.995e-06', 'epoch': '1.808'}
+
+ 11%|█▏        | 226/2000 [33:14<4:10:23,  8.47s/it]
+ 11%|█▏        | 227/2000 [33:22<4:12:19,  8.54s/it]
+                                                    
+{'loss': '0.739', 'grad_norm': '0.4261', 'learning_rate': '9.995e-06', 'epoch': '1.816'}
+
+ 11%|█▏        | 227/2000 [33:22<4:12:19,  8.54s/it]
+ 11%|█▏        | 228/2000 [33:31<4:10:02,  8.47s/it]
+                                                    
+{'loss': '0.8899', 'grad_norm': '0.5016', 'learning_rate': '9.994e-06', 'epoch': '1.824'}
+
+ 11%|█▏        | 228/2000 [33:31<4:10:02,  8.47s/it]
+ 11%|█▏        | 229/2000 [33:40<4:14:52,  8.64s/it]
+                                                    
+{'loss': '0.9146', 'grad_norm': '0.3603', 'learning_rate': '9.994e-06', 'epoch': '1.832'}
+
+ 11%|█▏        | 229/2000 [33:40<4:14:52,  8.64s/it]
+ 12%|█▏        | 230/2000 [33:48<4:12:34,  8.56s/it]
+                                                    
+{'loss': '0.7644', 'grad_norm': '0.3634', 'learning_rate': '9.994e-06', 'epoch': '1.84'}
+
+ 12%|█▏        | 230/2000 [33:48<4:12:34,  8.56s/it]
+ 12%|█▏        | 231/2000 [33:57<4:15:31,  8.67s/it]
+                                                    
+{'loss': '0.7518', 'grad_norm': '0.2386', 'learning_rate': '9.993e-06', 'epoch': '1.848'}
+
+ 12%|█▏        | 231/2000 [33:57<4:15:31,  8.67s/it]
+ 12%|█▏        | 232/2000 [34:06<4:18:05,  8.76s/it]
+                                                    
+{'loss': '0.6672', 'grad_norm': '0.2243', 'learning_rate': '9.993e-06', 'epoch': '1.856'}
+
+ 12%|█▏        | 232/2000 [34:06<4:18:05,  8.76s/it]
+ 12%|█▏        | 233/2000 [34:15<4:17:09,  8.73s/it]
+                                                    
+{'loss': '1.001', 'grad_norm': '0.2498', 'learning_rate': '9.992e-06', 'epoch': '1.864'}
+
+ 12%|█▏        | 233/2000 [34:15<4:17:09,  8.73s/it]
+ 12%|█▏        | 234/2000 [34:24<4:18:37,  8.79s/it]
+                                                    
+{'loss': '0.8321', 'grad_norm': '0.2608', 'learning_rate': '9.992e-06', 'epoch': '1.872'}
+
+ 12%|█▏        | 234/2000 [34:24<4:18:37,  8.79s/it]
+ 12%|█▏        | 235/2000 [34:33<4:20:03,  8.84s/it]
+                                                    
+{'loss': '1.05', 'grad_norm': '0.1997', 'learning_rate': '9.991e-06', 'epoch': '1.88'}
+
+ 12%|█▏        | 235/2000 [34:33<4:20:03,  8.84s/it]
+ 12%|█▏        | 236/2000 [34:41<4:20:27,  8.86s/it]
+                                                    
+{'loss': '0.9631', 'grad_norm': '0.2729', 'learning_rate': '9.991e-06', 'epoch': '1.888'}
+
+ 12%|█▏        | 236/2000 [34:42<4:20:27,  8.86s/it]
+ 12%|█▏        | 237/2000 [34:51<4:24:46,  9.01s/it]
+                                                    
+{'loss': '1.391', 'grad_norm': '0.2679', 'learning_rate': '9.99e-06', 'epoch': '1.896'}
+
+ 12%|█▏        | 237/2000 [34:51<4:24:46,  9.01s/it]
+ 12%|█▏        | 238/2000 [34:59<4:19:13,  8.83s/it]
+                                                    
+{'loss': '0.6887', 'grad_norm': '0.5818', 'learning_rate': '9.99e-06', 'epoch': '1.904'}
+
+ 12%|█▏        | 238/2000 [34:59<4:19:13,  8.83s/it]
+ 12%|█▏        | 239/2000 [35:08<4:21:57,  8.93s/it]
+                                                    
+{'loss': '0.7201', 'grad_norm': '0.2161', 'learning_rate': '9.989e-06', 'epoch': '1.912'}
+
+ 12%|█▏        | 239/2000 [35:08<4:21:57,  8.93s/it]
+ 12%|█▏        | 240/2000 [35:17<4:21:43,  8.92s/it]
+                                                    
+{'loss': '0.8491', 'grad_norm': '0.3419', 'learning_rate': '9.988e-06', 'epoch': '1.92'}
+
+ 12%|█▏        | 240/2000 [35:17<4:21:43,  8.92s/it]
+ 12%|█▏        | 241/2000 [35:26<4:15:38,  8.72s/it]
+                                                    
+{'loss': '0.7722', 'grad_norm': '0.3195', 'learning_rate': '9.988e-06', 'epoch': '1.928'}
+
+ 12%|█▏        | 241/2000 [35:26<4:15:38,  8.72s/it]
+ 12%|█▏        | 242/2000 [35:34<4:16:36,  8.76s/it]
+                                                    
+{'loss': '0.8853', 'grad_norm': '0.2355', 'learning_rate': '9.987e-06', 'epoch': '1.936'}
+
+ 12%|█▏        | 242/2000 [35:34<4:16:36,  8.76s/it]
+ 12%|█▏        | 243/2000 [35:43<4:15:52,  8.74s/it]
+                                                    
+{'loss': '0.9349', 'grad_norm': '0.3345', 'learning_rate': '9.987e-06', 'epoch': '1.944'}
+
+ 12%|█▏        | 243/2000 [35:43<4:15:52,  8.74s/it]
+ 12%|█▏        | 244/2000 [35:52<4:13:19,  8.66s/it]
+                                                    
+{'loss': '0.5723', 'grad_norm': '0.2623', 'learning_rate': '9.986e-06', 'epoch': '1.952'}
+
+ 12%|█▏        | 244/2000 [35:52<4:13:19,  8.66s/it]
+ 12%|█▏        | 245/2000 [36:00<4:13:51,  8.68s/it]
+                                                    
+{'loss': '0.8699', 'grad_norm': '0.3823', 'learning_rate': '9.985e-06', 'epoch': '1.96'}
+
+ 12%|█▏        | 245/2000 [36:00<4:13:51,  8.68s/it]
+ 12%|█▏        | 246/2000 [36:09<4:18:19,  8.84s/it]
+                                                    
+{'loss': '0.6072', 'grad_norm': '0.7025', 'learning_rate': '9.985e-06', 'epoch': '1.968'}
+
+ 12%|█▏        | 246/2000 [36:10<4:18:19,  8.84s/it]
+ 12%|█▏        | 247/2000 [36:19<4:22:11,  8.97s/it]
+                                                    
+{'loss': '0.8555', 'grad_norm': '0.1705', 'learning_rate': '9.984e-06', 'epoch': '1.976'}
+
+ 12%|█▏        | 247/2000 [36:19<4:22:11,  8.97s/it]
+ 12%|█▏        | 248/2000 [36:27<4:17:34,  8.82s/it]
+                                                    
+{'loss': '0.781', 'grad_norm': '0.1831', 'learning_rate': '9.983e-06', 'epoch': '1.984'}
+
+ 12%|█▏        | 248/2000 [36:27<4:17:34,  8.82s/it]
+ 12%|█▏        | 249/2000 [36:36<4:15:43,  8.76s/it]
+                                                    
+{'loss': '0.9761', 'grad_norm': '0.6074', 'learning_rate': '9.982e-06', 'epoch': '1.992'}
+
+ 12%|█▏        | 249/2000 [36:36<4:15:43,  8.76s/it]
+ 12%|█▎        | 250/2000 [36:45<4:21:27,  8.96s/it]
+                                                    
+{'loss': '1.151', 'grad_norm': '0.321', 'learning_rate': '9.982e-06', 'epoch': '2'}
+
+ 12%|█▎        | 250/2000 [36:45<4:21:27,  8.96s/it]
+ 13%|█▎        | 251/2000 [36:54<4:22:14,  9.00s/it]
+                                                    
+{'loss': '0.774', 'grad_norm': '0.2938', 'learning_rate': '9.981e-06', 'epoch': '2.008'}
+
+ 13%|█▎        | 251/2000 [36:54<4:22:14,  9.00s/it]
+ 13%|█▎        | 252/2000 [37:04<4:25:06,  9.10s/it]
+                                                    
+{'loss': '0.8181', 'grad_norm': '0.1742', 'learning_rate': '9.98e-06', 'epoch': '2.016'}
+
+ 13%|█▎        | 252/2000 [37:04<4:25:06,  9.10s/it]
+ 13%|█▎        | 253/2000 [37:13<4:27:19,  9.18s/it]
+                                                    
+{'loss': '0.6742', 'grad_norm': '0.291', 'learning_rate': '9.979e-06', 'epoch': '2.024'}
+
+ 13%|█▎        | 253/2000 [37:13<4:27:19,  9.18s/it]
+ 13%|█▎        | 254/2000 [37:21<4:14:30,  8.75s/it]
+                                                    
+{'loss': '0.6125', 'grad_norm': '0.2997', 'learning_rate': '9.979e-06', 'epoch': '2.032'}
+
+ 13%|█▎        | 254/2000 [37:21<4:14:30,  8.75s/it]
+ 13%|█▎        | 255/2000 [37:30<4:19:53,  8.94s/it]
+                                                    
+{'loss': '0.7098', 'grad_norm': '0.3006', 'learning_rate': '9.978e-06', 'epoch': '2.04'}
+
+ 13%|█▎        | 255/2000 [37:30<4:19:53,  8.94s/it]
+ 13%|█▎        | 256/2000 [37:39<4:20:40,  8.97s/it]
+                                                    
+{'loss': '0.823', 'grad_norm': '0.1667', 'learning_rate': '9.977e-06', 'epoch': '2.048'}
+
+ 13%|█▎        | 256/2000 [37:39<4:20:40,  8.97s/it]
+ 13%|█▎        | 257/2000 [37:48<4:17:07,  8.85s/it]
+                                                    
+{'loss': '0.886', 'grad_norm': '0.266', 'learning_rate': '9.976e-06', 'epoch': '2.056'}
+
+ 13%|█▎        | 257/2000 [37:48<4:17:07,  8.85s/it]
+ 13%|█▎        | 258/2000 [37:56<4:14:58,  8.78s/it]
+                                                    
+{'loss': '0.7062', 'grad_norm': '0.3393', 'learning_rate': '9.975e-06', 'epoch': '2.064'}
+
+ 13%|█▎        | 258/2000 [37:57<4:14:58,  8.78s/it]
+ 13%|█▎        | 259/2000 [38:05<4:11:55,  8.68s/it]
+                                                    
+{'loss': '0.8054', 'grad_norm': '0.2394', 'learning_rate': '9.974e-06', 'epoch': '2.072'}
+
+ 13%|█▎        | 259/2000 [38:05<4:11:55,  8.68s/it]
+ 13%|█▎        | 260/2000 [38:14<4:12:21,  8.70s/it]
+                                                    
+{'loss': '0.8018', 'grad_norm': '0.2995', 'learning_rate': '9.974e-06', 'epoch': '2.08'}
+
+ 13%|█▎        | 260/2000 [38:14<4:12:21,  8.70s/it]
+ 13%|█▎        | 261/2000 [38:22<4:09:07,  8.60s/it]
+                                                    
+{'loss': '0.7233', 'grad_norm': '0.1601', 'learning_rate': '9.973e-06', 'epoch': '2.088'}
+
+ 13%|█▎        | 261/2000 [38:22<4:09:07,  8.60s/it]
+ 13%|█▎        | 262/2000 [38:31<4:09:38,  8.62s/it]
+                                                    
+{'loss': '0.6361', 'grad_norm': '0.4317', 'learning_rate': '9.972e-06', 'epoch': '2.096'}
+
+ 13%|█▎        | 262/2000 [38:31<4:09:38,  8.62s/it]
+ 13%|█▎        | 263/2000 [38:39<4:10:39,  8.66s/it]
+                                                    
+{'loss': '0.8724', 'grad_norm': '0.206', 'learning_rate': '9.971e-06', 'epoch': '2.104'}
+
+ 13%|█▎        | 263/2000 [38:39<4:10:39,  8.66s/it]
+ 13%|█▎        | 264/2000 [38:48<4:05:40,  8.49s/it]
+                                                    
+{'loss': '0.5715', 'grad_norm': '0.2582', 'learning_rate': '9.97e-06', 'epoch': '2.112'}
+
+ 13%|█▎        | 264/2000 [38:48<4:05:40,  8.49s/it]
+ 13%|█▎        | 265/2000 [38:56<4:05:43,  8.50s/it]
+                                                    
+{'loss': '0.9755', 'grad_norm': '0.326', 'learning_rate': '9.969e-06', 'epoch': '2.12'}
+
+ 13%|█▎        | 265/2000 [38:56<4:05:43,  8.50s/it]
+ 13%|█▎        | 266/2000 [39:04<4:03:57,  8.44s/it]
+                                                    
+{'loss': '0.574', 'grad_norm': '0.2982', 'learning_rate': '9.968e-06', 'epoch': '2.128'}
+
+ 13%|█▎        | 266/2000 [39:04<4:03:57,  8.44s/it]
+ 13%|█▎        | 267/2000 [39:13<4:04:02,  8.45s/it]
+                                                    
+{'loss': '0.7866', 'grad_norm': '0.3509', 'learning_rate': '9.967e-06', 'epoch': '2.136'}
+
+ 13%|█▎        | 267/2000 [39:13<4:04:02,  8.45s/it]
+ 13%|█▎        | 268/2000 [39:22<4:11:50,  8.72s/it]
+                                                    
+{'loss': '0.7405', 'grad_norm': '0.3387', 'learning_rate': '9.966e-06', 'epoch': '2.144'}
+
+ 13%|█▎        | 268/2000 [39:22<4:11:50,  8.72s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+ 13%|█▎        | 269/2000 [39:33<4:34:07,  9.50s/it]
+                                                    
+{'loss': '0.8564', 'grad_norm': '0.2285', 'learning_rate': '9.965e-06', 'epoch': '2.152'}
+
+ 13%|█▎        | 269/2000 [39:33<4:34:07,  9.50s/it]
+ 14%|█▎        | 270/2000 [39:42<4:24:24,  9.17s/it]
+                                                    
+{'loss': '0.5669', 'grad_norm': '0.351', 'learning_rate': '9.964e-06', 'epoch': '2.16'}
+
+ 14%|█▎        | 270/2000 [39:42<4:24:24,  9.17s/it]
+ 14%|█▎        | 271/2000 [39:50<4:16:49,  8.91s/it]
+                                                    
+{'loss': '0.9754', 'grad_norm': '0.4198', 'learning_rate': '9.963e-06', 'epoch': '2.168'}
+
+ 14%|█▎        | 271/2000 [39:51<4:16:49,  8.91s/it]
+ 14%|█▎        | 272/2000 [39:59<4:17:34,  8.94s/it]
+                                                    
+{'loss': '0.8572', 'grad_norm': '0.3331', 'learning_rate': '9.962e-06', 'epoch': '2.176'}
+
+ 14%|█▎        | 272/2000 [39:59<4:17:34,  8.94s/it]
+ 14%|█▎        | 273/2000 [40:08<4:13:47,  8.82s/it]
+                                                    
+{'loss': '0.8567', 'grad_norm': '0.2083', 'learning_rate': '9.961e-06', 'epoch': '2.184'}
+
+ 14%|█▎        | 273/2000 [40:08<4:13:47,  8.82s/it]
+ 14%|█▎        | 274/2000 [40:17<4:14:22,  8.84s/it]
+                                                    
+{'loss': '0.7328', 'grad_norm': '0.1827', 'learning_rate': '9.959e-06', 'epoch': '2.192'}
+
+ 14%|█▎        | 274/2000 [40:17<4:14:22,  8.84s/it]
+ 14%|█▍        | 275/2000 [40:25<4:10:25,  8.71s/it]
+                                                    
+{'loss': '0.8037', 'grad_norm': '0.2765', 'learning_rate': '9.958e-06', 'epoch': '2.2'}
+
+ 14%|█▍        | 275/2000 [40:25<4:10:25,  8.71s/it]
+ 14%|█▍        | 276/2000 [40:34<4:13:01,  8.81s/it]
+                                                    
+{'loss': '0.8538', 'grad_norm': '0.5123', 'learning_rate': '9.957e-06', 'epoch': '2.208'}
+
+ 14%|█▍        | 276/2000 [40:34<4:13:01,  8.81s/it]
+ 14%|█▍        | 277/2000 [40:42<4:09:09,  8.68s/it]
+                                                    
+{'loss': '0.954', 'grad_norm': '0.3286', 'learning_rate': '9.956e-06', 'epoch': '2.216'}
+
+ 14%|█▍        | 277/2000 [40:42<4:09:09,  8.68s/it]
+ 14%|█▍        | 278/2000 [40:51<4:11:55,  8.78s/it]
+                                                    
+{'loss': '1.061', 'grad_norm': '0.1586', 'learning_rate': '9.955e-06', 'epoch': '2.224'}
+
+ 14%|█▍        | 278/2000 [40:52<4:11:55,  8.78s/it]
+ 14%|█▍        | 279/2000 [41:00<4:10:43,  8.74s/it]
+                                                    
+{'loss': '0.9268', 'grad_norm': '0.3997', 'learning_rate': '9.954e-06', 'epoch': '2.232'}
+
+ 14%|█▍        | 279/2000 [41:00<4:10:43,  8.74s/it]
+ 14%|█▍        | 280/2000 [41:08<4:05:17,  8.56s/it]
+                                                    
+{'loss': '0.4744', 'grad_norm': '0.2552', 'learning_rate': '9.953e-06', 'epoch': '2.24'}
+
+ 14%|█▍        | 280/2000 [41:08<4:05:17,  8.56s/it]
+ 14%|█▍        | 281/2000 [41:17<4:10:17,  8.74s/it]
+                                                    
+{'loss': '0.7948', 'grad_norm': '0.8154', 'learning_rate': '9.951e-06', 'epoch': '2.248'}
+
+ 14%|█▍        | 281/2000 [41:17<4:10:17,  8.74s/it]
+ 14%|█▍        | 282/2000 [41:26<4:09:27,  8.71s/it]
+                                                    
+{'loss': '0.9014', 'grad_norm': '0.3042', 'learning_rate': '9.95e-06', 'epoch': '2.256'}
+
+ 14%|█▍        | 282/2000 [41:26<4:09:27,  8.71s/it]
+ 14%|█▍        | 283/2000 [41:34<4:05:48,  8.59s/it]
+                                                    
+{'loss': '0.9144', 'grad_norm': '0.175', 'learning_rate': '9.949e-06', 'epoch': '2.264'}
+
+ 14%|█▍        | 283/2000 [41:34<4:05:48,  8.59s/it]
+ 14%|█▍        | 284/2000 [41:44<4:13:36,  8.87s/it]
+                                                    
+{'loss': '0.9268', 'grad_norm': '0.4402', 'learning_rate': '9.948e-06', 'epoch': '2.272'}
+
+ 14%|█▍        | 284/2000 [41:44<4:13:36,  8.87s/it]
+ 14%|█▍        | 285/2000 [41:51<4:01:28,  8.45s/it]
+                                                    
+{'loss': '0.6039', 'grad_norm': '0.3347', 'learning_rate': '9.946e-06', 'epoch': '2.28'}
+
+ 14%|█▍        | 285/2000 [41:51<4:01:28,  8.45s/it]
+ 14%|█▍        | 286/2000 [42:00<3:59:33,  8.39s/it]
+                                                    
+{'loss': '0.6562', 'grad_norm': '0.4117', 'learning_rate': '9.945e-06', 'epoch': '2.288'}
+
+ 14%|█▍        | 286/2000 [42:00<3:59:33,  8.39s/it]
+ 14%|█▍        | 287/2000 [42:09<4:05:47,  8.61s/it]
+                                                    
+{'loss': '0.8517', 'grad_norm': '0.2975', 'learning_rate': '9.944e-06', 'epoch': '2.296'}
+
+ 14%|█▍        | 287/2000 [42:09<4:05:47,  8.61s/it][WARNING] Please DO NOT tune args ['unit_flag', 'limit_auto_multi_buffer_of_local_buffer', 'set_workspace_multibuffer', 'enable_hivm_auto_cv_balance', 'tile_mix_vector_loop', 'tile_mix_cube_loop', 'num_warps', 'num_ctas', 'num_stages', 'num_buffers_warp_spec', 'num_consumer_groups', 'reg_dec_producer', 'reg_inc_consumer', 'force_simt_template', 'enable_linearize']!
+
+ 14%|█▍        | 288/2000 [42:17<4:06:42,  8.65s/it]
+                                                    
+{'loss': '0.6219', 'grad_norm': '0.5177', 'learning_rate': '9.942e-06', 'epoch': '2.304'}
+
+ 14%|█▍        | 288/2000 [42:18<4:06:42,  8.65s/it]
+ 14%|█▍        | 289/2000 [42:27<4:12:35,  8.86s/it]
+                                                    
+{'loss': '0.9382', 'grad_norm': '0.2239', 'learning_rate': '9.941e-06', 'epoch': '2.312'}
+
+ 14%|█▍        | 289/2000 [42:27<4:12:35,  8.86s/it]
+ 14%|█▍        | 290/2000 [42:36<4:17:19,  9.03s/it]
+                                                    
+{'loss': '0.7119', 'grad_norm': '0.2147', 'learning_rate': '9.94e-06', 'epoch': '2.32'}
+
+ 14%|█▍        | 290/2000 [42:36<4:17:19,  9.03s/it]
+ 15%|█▍        | 291/2000 [42:45<4:11:19,  8.82s/it]
+                                                    
+{'loss': '0.6694', 'grad_norm': '0.2578', 'learning_rate': '9.938e-06', 'epoch': '2.328'}
+
+ 15%|█▍        | 291/2000 [42:45<4:11:19,  8.82s/it]
+ 15%|█▍        | 292/2000 [42:54<4:15:43,  8.98s/it]
+                                                    
+{'loss': '0.6907', 'grad_norm': '0.3977', 'learning_rate': '9.937e-06', 'epoch': '2.336'}
+
+ 15%|█▍        | 292/2000 [42:54<4:15:43,  8.98s/it]
+ 15%|█▍        | 293/2000 [43:02<4:09:14,  8.76s/it]
+                                                    
+{'loss': '0.9126', 'grad_norm': '0.4601', 'learning_rate': '9.936e-06', 'epoch': '2.344'}
+
+ 15%|█▍        | 293/2000 [43:02<4:09:14,  8.76s/it]
+ 15%|█▍        | 294/2000 [43:10<4:03:33,  8.57s/it]
+                                                    
+{'loss': '0.8127', 'grad_norm': '0.3123', 'learning_rate': '9.934e-06', 'epoch': '2.352'}
+
+ 15%|█▍        | 294/2000 [43:10<4:03:33,  8.57s/it]
+ 15%|█▍        | 295/2000 [43:19<4:02:57,  8.55s/it]
+                                                    
+{'loss': '0.7781', 'grad_norm': '0.4107', 'learning_rate': '9.933e-06', 'epoch': '2.36'}
+
+ 15%|█▍        | 295/2000 [43:19<4:02:57,  8.55s/it]
+ 15%|█▍        | 296/2000 [43:27<4:00:07,  8.45s/it]
+                                                    
+{'loss': '0.5132', 'grad_norm': '0.4437', 'learning_rate': '9.931e-06', 'epoch': '2.368'}
+
+ 15%|█▍        | 296/2000 [43:27<4:00:07,  8.45s/it]
+ 15%|█▍        | 297/2000 [43:36<4:01:42,  8.52s/it]
+                                                    
+{'loss': '0.7751', 'grad_norm': '0.2887', 'learning_rate': '9.93e-06', 'epoch': '2.376'}
+
+ 15%|█▍        | 297/2000 [43:36<4:01:42,  8.52s/it]
+ 15%|█▍        | 298/2000 [43:44<4:00:21,  8.47s/it]
+                                                    
+{'loss': '0.979', 'grad_norm': '0.3885', 'learning_rate': '9.929e-06', 'epoch': '2.384'}
+
+ 15%|█▍        | 298/2000 [43:44<4:00:21,  8.47s/it]
+ 15%|█▍        | 299/2000 [43:52<3:57:34,  8.38s/it]
+                                                    
+{'loss': '0.6985', 'grad_norm': '0.2915', 'learning_rate': '9.927e-06', 'epoch': '2.392'}
+
+ 15%|█▍        | 299/2000 [43:52<3:57:34,  8.38s/it]
+ 15%|█▌        | 300/2000 [44:01<3:59:31,  8.45s/it]
+                                                    
+{'loss': '0.7162', 'grad_norm': '0.4517', 'learning_rate': '9.926e-06', 'epoch': '2.4'}
+
+ 15%|█▌        | 300/2000 [44:01<3:59:31,  8.45s/it]
+ 15%|█▌        | 301/2000 [44:10<4:07:41,  8.75s/it]
+                                                    
+{'loss': '0.9878', 'grad_norm': '0.2116', 'learning_rate': '9.924e-06', 'epoch': '2.408'}
+
+ 15%|█▌        | 301/2000 [44:10<4:07:41,  8.75s/it]
+ 15%|█▌        | 302/2000 [44:18<4:01:51,  8.55s/it]
+                                                    
+{'loss': '0.6937', 'grad_norm': '0.5388', 'learning_rate': '9.923e-06', 'epoch': '2.416'}
+
+ 15%|█▌        | 302/2000 [44:18<4:01:51,  8.55s/it]
+ 15%|█▌        | 303/2000 [44:28<4:11:10,  8.88s/it]
+                                                    
+{'loss': '0.7996', 'grad_norm': '0.2834', 'learning_rate': '9.921e-06', 'epoch': '2.424'}
+
+ 15%|█▌        | 303/2000 [44:28<4:11:10,  8.88s/it]
+ 15%|█▌        | 304/2000 [44:36<4:02:02,  8.56s/it]
+                                                    
+{'loss': '0.7659', 'grad_norm': '0.4327', 'learning_rate': '9.919e-06', 'epoch': '2.432'}
+
+ 15%|█▌        | 304/2000 [44:36<4:02:02,  8.56s/it]
+ 15%|█▌        | 305/2000 [44:44<4:01:48,  8.56s/it]
+                                                    
+{'loss': '0.6959', 'grad_norm': '0.2798', 'learning_rate': '9.918e-06', 'epoch': '2.44'}
+
+ 15%|█▌        | 305/2000 [44:44<4:01:48,  8.56s/it]
+ 15%|█▌        | 306/2000 [44:54<4:06:28,  8.73s/it]
+                                                    
+{'loss': '0.8496', 'grad_norm': '0.3192', 'learning_rate': '9.916e-06', 'epoch': '2.448'}
+
+ 15%|█▌        | 306/2000 [44:54<4:06:28,  8.73s/it]
+ 15%|█▌        | 307/2000 [45:02<4:02:43,  8.60s/it]
+                                                    
+{'loss': '0.8463', 'grad_norm': '0.1866', 'learning_rate': '9.915e-06', 'epoch': '2.456'}
+
+ 15%|█▌        | 307/2000 [45:02<4:02:43,  8.60s/it]
+ 15%|█▌        | 308/2000 [45:11<4:04:35,  8.67s/it]
+                                                    
+{'loss': '1.034', 'grad_norm': '0.2239', 'learning_rate': '9.913e-06', 'epoch': '2.464'}
+
+ 15%|█▌        | 308/2000 [45:11<4:04:35,  8.67s/it]
+ 15%|█▌        | 309/2000 [45:19<4:02:07,  8.59s/it]
+                                                    
+{'loss': '0.7542', 'grad_norm': '0.274', 'learning_rate': '9.911e-06', 'epoch': '2.472'}
+
+ 15%|█▌        | 309/2000 [45:19<4:02:07,  8.59s/it]
+ 16%|█▌        | 310/2000 [45:27<3:54:38,  8.33s/it]
+                                                    
+{'loss': '0.7502', 'grad_norm': '0.2541', 'learning_rate': '9.91e-06', 'epoch': '2.48'}
+
+ 16%|█▌        | 310/2000 [45:27<3:54:38,  8.33s/it]
+ 16%|█▌        | 311/2000 [45:36<4:04:00,  8.67s/it]
+                                                    
+{'loss': '0.9043', 'grad_norm': '0.2209', 'learning_rate': '9.908e-06', 'epoch': '2.488'}
+
+ 16%|█▌        | 311/2000 [45:36<4:04:00,  8.67s/it]
+ 16%|█▌        | 312/2000 [45:45<4:04:53,  8.70s/it]
+                                                    
+{'loss': '1.006', 'grad_norm': '0.3225', 'learning_rate': '9.906e-06', 'epoch': '2.496'}
+
+ 16%|█▌        | 312/2000 [45:45<4:04:53,  8.70s/it]
+ 16%|█▌        | 313/2000 [45:54<4:06:10,  8.76s/it]
+                                                    
+{'loss': '1.093', 'grad_norm': '0.427', 'learning_rate': '9.905e-06', 'epoch': '2.504'}
+
+ 16%|█▌        | 313/2000 [45:54<4:06:10,  8.76s/it]
+ 16%|█▌        | 314/2000 [46:02<4:03:55,  8.68s/it]
+                                                    
+{'loss': '0.8786', 'grad_norm': '1.038', 'learning_rate': '9.903e-06', 'epoch': '2.512'}
+
+ 16%|█▌        | 314/2000 [46:02<4:03:55,  8.68s/it]
+ 16%|█▌        | 315/2000 [46:11<4:05:57,  8.76s/it]
+                                                    
+{'loss': '0.7014', 'grad_norm': '0.2238', 'learning_rate': '9.901e-06', 'epoch': '2.52'}
+
+ 16%|█▌        | 315/2000 [46:11<4:05:57,  8.76s/it]
+ 16%|█▌        | 316/2000 [46:19<3:59:49,  8.55s/it]
+                                                    
+{'loss': '0.7338', 'grad_norm': '0.382', 'learning_rate': '9.9e-06', 'epoch': '2.528'}
+
+ 16%|█▌        | 316/2000 [46:19<3:59:49,  8.55s/it]
+ 16%|█▌        | 317/2000 [46:29<4:08:33,  8.86s/it]
+                                                    
+{'loss': '0.9008', 'grad_norm': '0.2538', 'learning_rate': '9.898e-06', 'epoch': '2.536'}
+
+ 16%|█▌        | 317/2000 [46:29<4:08:33,  8.86s/it]
+ 16%|█▌        | 318/2000 [46:37<4:03:09,  8.67s/it]
+                                                    
+{'loss': '0.8765', 'grad_norm': '0.1464', 'learning_rate': '9.896e-06', 'epoch': '2.544'}
+
+ 16%|█▌        | 318/2000 [46:37<4:03:09,  8.67s/it]
+ 16%|█▌        | 319/2000 [46:46<4:02:31,  8.66s/it]
+                                                    
+{'loss': '0.9683', 'grad_norm': '0.2903', 'learning_rate': '9.894e-06', 'epoch': '2.552'}
+
+ 16%|█▌        | 319/2000 [46:46<4:02:31,  8.66s/it]
+ 16%|█▌        | 320/2000 [46:54<4:01:40,  8.63s/it]
+                                                    
+{'loss': '1.084', 'grad_norm': '0.5251', 'learning_rate': '9.893e-06', 'epoch': '2.56'}
+
+ 16%|█▌        | 320/2000 [46:54<4:01:40,  8.63s/it]
+ 16%|█▌        | 321/2000 [47:03<4:04:24,  8.73s/it]
+                                                    
+{'loss': '0.7722', 'grad_norm': '0.3059', 'learning_rate': '9.891e-06', 'epoch': '2.568'}
+
+ 16%|█▌        | 321/2000 [47:03<4:04:24,  8.73s/it]
+ 16%|█▌        | 322/2000 [47:12<4:00:56,  8.62s/it]
+                                                    
+{'loss': '0.7795', 'grad_norm': '0.1863', 'learning_rate': '9.889e-06', 'epoch': '2.576'}
+
+ 16%|█▌        | 322/2000 [47:12<4:00:56,  8.62s/it]
+ 16%|█▌        | 323/2000 [47:20<3:58:41,  8.54s/it]
+                                                    
+{'loss': '0.8287', 'grad_norm': '0.3452', 'learning_rate': '9.887e-06', 'epoch': '2.584'}
+
+ 16%|█▌        | 323/2000 [47:20<3:58:41,  8.54s/it]
+ 16%|█▌        | 324/2000 [47:29<4:01:04,  8.63s/it]
+                                                    
+{'loss': '0.8088', 'grad_norm': '0.4219', 'learning_rate': '9.885e-06', 'epoch': '2.592'}
+
+ 16%|█▌        | 324/2000 [47:29<4:01:04,  8.63s/it]
+ 16%|█▋        | 325/2000 [47:37<3:59:11,  8.57s/it]
+                                                    
+{'loss': '0.8889', 'grad_norm': '0.3552', 'learning_rate': '9.883e-06', 'epoch': '2.6'}
+
+ 16%|█▋        | 325/2000 [47:37<3:59:11,  8.57s/it]
+ 16%|█▋        | 326/2000 [47:46<3:57:15,  8.50s/it]
+                                                    
+{'loss': '1.121', 'grad_norm': '0.3889', 'learning_rate': '9.881e-06', 'epoch': '2.608'}
+
+ 16%|█▋        | 326/2000 [47:46<3:57:15,  8.50s/it]
+ 16%|█▋        | 327/2000 [47:55<4:03:52,  8.75s/it]
+                                                    
+{'loss': '0.7768', 'grad_norm': '0.2471', 'learning_rate': '9.88e-06', 'epoch': '2.616'}
+
+ 16%|█▋        | 327/2000 [47:55<4:03:52,  8.75s/it]
+ 16%|█▋        | 328/2000 [48:04<4:03:20,  8.73s/it]
+                                                    
+{'loss': '0.8598', 'grad_norm': '0.404', 'learning_rate': '9.878e-06', 'epoch': '2.624'}
+
+ 16%|█▋        | 328/2000 [48:04<4:03:20,  8.73s/it]
+ 16%|█▋        | 329/2000 [48:13<4:04:29,  8.78s/it]
+                                                    
+{'loss': '0.8843', 'grad_norm': '0.2859', 'learning_rate': '9.876e-06', 'epoch': '2.632'}
+
+ 16%|█▋        | 329/2000 [48:13<4:04:29,  8.78s/it]
+ 16%|█▋        | 330/2000 [48:21<4:01:14,  8.67s/it]
+                                                    
+{'loss': '0.8359', 'grad_norm': '0.3555', 'learning_rate': '9.874e-06', 'epoch': '2.64'}
+
+ 16%|█▋        | 330/2000 [48:21<4:01:14,  8.67s/it]
+ 17%|█▋        | 331/2000 [48:29<3:51:34,  8.33s/it]
+                                                    
+{'loss': '0.6392', 'grad_norm': '0.3091', 'learning_rate': '9.872e-06', 'epoch': '2.648'}
+
+ 17%|█▋        | 331/2000 [48:29<3:51:34,  8.33s/it]
+ 17%|█▋        | 332/2000 [48:38<4:03:37,  8.76s/it]
+                                                    
+{'loss': '0.9675', 'grad_norm': '0.23', 'learning_rate': '9.87e-06', 'epoch': '2.656'}
+
+ 17%|█▋        | 332/2000 [48:38<4:03:37,  8.76s/it]
+ 17%|█▋        | 333/2000 [48:47<4:00:16,  8.65s/it]
+                                                    
+{'loss': '1.015', 'grad_norm': '0.2736', 'learning_rate': '9.868e-06', 'epoch': '2.664'}
+
+ 17%|█▋        | 333/2000 [48:47<4:00:16,  8.65s/it]
+ 17%|█▋        | 334/2000 [48:55<4:01:19,  8.69s/it]
+                                                    
+{'loss': '1.24', 'grad_norm': '0.4793', 'learning_rate': '9.866e-06', 'epoch': '2.672'}
+
+ 17%|█▋        | 334/2000 [48:56<4:01:19,  8.69s/it]
+ 17%|█▋        | 335/2000 [49:04<4:03:11,  8.76s/it]
+                                                    
+{'loss': '0.8395', 'grad_norm': '0.4769', 'learning_rate': '9.864e-06', 'epoch': '2.68'}
+
+ 17%|█▋        | 335/2000 [49:04<4:03:11,  8.76s/it]
+ 17%|█▋        | 336/2000 [49:12<3:55:55,  8.51s/it]
+                                                    
+{'loss': '0.9392', 'grad_norm': '0.271', 'learning_rate': '9.862e-06', 'epoch': '2.688'}
+
+ 17%|█▋        | 336/2000 [49:12<3:55:55,  8.51s/it]
+ 17%|█▋        | 337/2000 [49:21<3:54:29,  8.46s/it]
+                                                    
+{'loss': '0.7067', 'grad_norm': '0.307', 'learning_rate': '9.86e-06', 'epoch': '2.696'}
+
+ 17%|█▋        | 337/2000 [49:21<3:54:29,  8.46s/it]
+ 17%|█▋        | 338/2000 [49:29<3:54:12,  8.46s/it]
+                                                    
+{'loss': '0.5886', 'grad_norm': '0.3285', 'learning_rate': '9.858e-06', 'epoch': '2.704'}
+
+ 17%|█▋        | 338/2000 [49:29<3:54:12,  8.46s/it]
+ 17%|█▋        | 339/2000 [49:37<3:48:50,  8.27s/it]
+                                                    
+{'loss': '0.5637', 'grad_norm': '0.3071', 'learning_rate': '9.856e-06', 'epoch': '2.712'}
+
+ 17%|█▋        | 339/2000 [49:37<3:48:50,  8.27s/it]
+ 17%|█▋        | 340/2000 [49:47<4:05:58,  8.89s/it]
+                                                    
+{'loss': '1.015', 'grad_norm': '0.5097', 'learning_rate': '9.854e-06', 'epoch': '2.72'}
+
+ 17%|█▋        | 340/2000 [49:47<4:05:58,  8.89s/it]
+ 17%|█▋        | 341/2000 [49:56<4:02:09,  8.76s/it]
+                                                    
+{'loss': '0.6847', 'grad_norm': '0.1134', 'learning_rate': '9.851e-06', 'epoch': '2.728'}
+
+ 17%|█▋        | 341/2000 [49:56<4:02:09,  8.76s/it]
+ 17%|█▋        | 342/2000 [50:04<4:00:44,  8.71s/it]
+                                                    
+{'loss': '0.9011', 'grad_norm': '0.3016', 'learning_rate': '9.849e-06', 'epoch': '2.736'}
+
+ 17%|█▋        | 342/2000 [50:04<4:00:44,  8.71s/it]
+ 17%|█▋        | 343/2000 [50:13<4:01:15,  8.74s/it]
+                                                    
+{'loss': '0.7224', 'grad_norm': '0.3863', 'learning_rate': '9.847e-06', 'epoch': '2.744'}
+
+ 17%|█▋        | 343/2000 [50:13<4:01:15,  8.74s/it]
+ 17%|█▋        | 344/2000 [50:21<3:56:29,  8.57s/it]
+                                                    
+{'loss': '0.881', 'grad_norm': '0.3007', 'learning_rate': '9.845e-06', 'epoch': '2.752'}
+
+ 17%|█▋        | 344/2000 [50:21<3:56:29,  8.57s/it]
+ 17%|█▋        | 345/2000 [50:30<3:59:34,  8.69s/it]
+                                                    
+{'loss': '0.7854', 'grad_norm': '0.3201', 'learning_rate': '9.843e-06', 'epoch': '2.76'}
+
+ 17%|█▋        | 345/2000 [50:30<3:59:34,  8.69s/it]
+ 17%|█▋        | 346/2000 [50:39<4:02:11,  8.79s/it]
+                                                    
+{'loss': '0.8323', 'grad_norm': '0.2574', 'learning_rate': '9.841e-06', 'epoch': '2.768'}
+
+ 17%|█▋        | 346/2000 [50:39<4:02:11,  8.79s/it]
+ 17%|█▋        | 347/2000 [50:47<3:55:36,  8.55s/it]
+                                                    
+{'loss': '0.6606', 'grad_norm': '0.1937', 'learning_rate': '9.839e-06', 'epoch': '2.776'}
+
+ 17%|█▋        | 347/2000 [50:47<3:55:36,  8.55s/it]
+ 17%|█▋        | 348/2000 [50:57<4:06:20,  8.95s/it]
+                                                    
+{'loss': '0.6417', 'grad_norm': '0.2351', 'learning_rate': '9.836e-06', 'epoch': '2.784'}
+
+ 17%|█▋        | 348/2000 [50:57<4:06:20,  8.95s/it]
+ 17%|█▋        | 349/2000 [51:06<4:04:33,  8.89s/it]
+                                                    
+{'loss': '0.7739', 'grad_norm': '0.3402', 'learning_rate': '9.834e-06', 'epoch': '2.792'}
+
+ 17%|█▋        | 349/2000 [51:06<4:04:33,  8.89s/it]
+ 18%|█▊        | 350/2000 [51:14<3:58:49,  8.68s/it]
+                                                    
+{'loss': '1.139', 'grad_norm': '0.3417', 'learning_rate': '9.832e-06', 'epoch': '2.8'}
+
+ 18%|█▊        | 350/2000 [51:14<3:58:49,  8.68s/it]
+ 18%|█▊        | 351/2000 [51:24<4:04:33,  8.90s/it]
+                                                    
+{'loss': '0.8412', 'grad_norm': '0.4125', 'learning_rate': '9.83e-06', 'epoch': '2.808'}
+
+ 18%|█▊        | 351/2000 [51:24<4:04:33,  8.90s/it]
+ 18%|█▊        | 352/2000 [51:33<4:07:14,  9.00s/it]
+                                                    
+{'loss': '0.7469', 'grad_norm': '0.3887', 'learning_rate': '9.827e-06', 'epoch': '2.816'}
+
+ 18%|█▊        | 352/2000 [51:33<4:07:14,  9.00s/it]
+ 18%|█▊        | 353/2000 [51:41<4:04:41,  8.91s/it]
+                                                    
+{'loss': '0.6805', 'grad_norm': '0.2678', 'learning_rate': '9.825e-06', 'epoch': '2.824'}
+
+ 18%|█▊        | 353/2000 [51:42<4:04:41,  8.91s/it]
+ 18%|█▊        | 354/2000 [51:51<4:06:39,  8.99s/it]
+                                                    
+{'loss': '0.7408', 'grad_norm': '0.4595', 'learning_rate': '9.823e-06', 'epoch': '2.832'}
+
+ 18%|█▊        | 354/2000 [51:51<4:06:39,  8.99s/it]
+ 18%|█▊        | 355/2000 [51:59<4:00:21,  8.77s/it]
+                                                    
+{'loss': '0.9243', 'grad_norm': '0.1889', 'learning_rate': '9.82e-06', 'epoch': '2.84'}
+
+ 18%|█▊        | 355/2000 [51:59<4:00:21,  8.77s/it]
+ 18%|█▊        | 356/2000 [52:08<4:06:07,  8.98s/it]
+                                                    
+{'loss': '0.949', 'grad_norm': '0.1543', 'learning_rate': '9.818e-06', 'epoch': '2.848'}
+
+ 18%|█▊        | 356/2000 [52:08<4:06:07,  8.98s/it]
+ 18%|█▊        | 357/2000 [52:17<4:02:35,  8.86s/it]
+                                                    
+{'loss': '0.7417', 'grad_norm': '0.3944', 'learning_rate': '9.816e-06', 'epoch': '2.856'}
+
+ 18%|█▊        | 357/2000 [52:17<4:02:35,  8.86s/it]
+ 18%|█▊        | 358/2000 [52:25<3:55:53,  8.62s/it]
+                                                    
+{'loss': '0.7029', 'grad_norm': '0.2906', 'learning_rate': '9.813e-06', 'epoch': '2.864'}
+
+ 18%|█▊        | 358/2000 [52:25<3:55:53,  8.62s/it]
+ 18%|█▊        | 359/2000 [52:34<4:01:34,  8.83s/it]
+                                                    
+{'loss': '0.8584', 'grad_norm': '0.4663', 'learning_rate': '9.811e-06', 'epoch': '2.872'}
+
+ 18%|█▊        | 359/2000 [52:34<4:01:34,  8.83s/it]
+ 18%|█▊        | 360/2000 [52:43<3:57:34,  8.69s/it]
+                                                    
+{'loss': '1.182', 'grad_norm': '0.2891', 'learning_rate': '9.809e-06', 'epoch': '2.88'}
+
+ 18%|█▊        | 360/2000 [52:43<3:57:34,  8.69s/it]
+ 18%|█▊        | 361/2000 [52:52<3:59:03,  8.75s/it]
+                                                    
+{'loss': '0.8342', 'grad_norm': '0.3998', 'learning_rate': '9.806e-06', 'epoch': '2.888'}
+
+ 18%|█▊        | 361/2000 [52:52<3:59:03,  8.75s/it]
+ 18%|█▊        | 362/2000 [53:01<4:01:11,  8.83s/it]
+                                                    
+{'loss': '0.7148', 'grad_norm': '0.2368', 'learning_rate': '9.804e-06', 'epoch': '2.896'}
+
+ 18%|█▊        | 362/2000 [53:01<4:01:11,  8.83s/it]
+ 18%|█▊        | 363/2000 [53:09<3:59:14,  8.77s/it]
+                                                    
+{'loss': '0.8569', 'grad_norm': '0.3678', 'learning_rate': '9.801e-06', 'epoch': '2.904'}
+
+ 18%|█▊        | 363/2000 [53:09<3:59:14,  8.77s/it]
+ 18%|█▊        | 364/2000 [53:19<4:03:07,  8.92s/it]
+                                                    
+{'loss': '0.925', 'grad_norm': '0.3104', 'learning_rate': '9.799e-06', 'epoch': '2.912'}
+
+ 18%|█▊        | 364/2000 [53:19<4:03:07,  8.92s/it]
+ 18%|█▊        | 365/2000 [53:28<4:05:40,  9.02s/it]
+                                                    
+{'loss': '0.696', 'grad_norm': '0.2414', 'learning_rate': '9.797e-06', 'epoch': '2.92'}
+
+ 18%|█▊        | 365/2000 [53:28<4:05:40,  9.02s/it]
+ 18%|█▊        | 366/2000 [53:36<4:02:37,  8.91s/it]
+                                                    
+{'loss': '0.7593', 'grad_norm': '0.4476', 'learning_rate': '9.794e-06', 'epoch': '2.928'}
+
+ 18%|█▊        | 366/2000 [53:36<4:02:37,  8.91s/it]
+ 18%|█▊        | 367/2000 [53:45<4:03:32,  8.95s/it]
+                                                    
+{'loss': '0.5767', 'grad_norm': '0.2269', 'learning_rate': '9.792e-06', 'epoch': '2.936'}
+
+ 18%|█▊        | 367/2000 [53:45<4:03:32,  8.95s/it]
+ 18%|█▊        | 368/2000 [53:54<3:56:33,  8.70s/it]
+                                                    
+{'loss': '0.6925', 'grad_norm': '0.6337', 'learning_rate': '9.789e-06', 'epoch': '2.944'}
+
+ 18%|█▊        | 368/2000 [53:54<3:56:33,  8.70s/it]
+ 18%|█▊        | 369/2000 [54:02<3:57:36,  8.74s/it]
+                                                    
+{'loss': '0.5284', 'grad_norm': '0.2065', 'learning_rate': '9.787e-06', 'epoch': '2.952'}
+
+ 18%|█▊        | 369/2000 [54:02<3:57:36,  8.74s/it]
+ 18%|█▊        | 370/2000 [54:11<3:59:15,  8.81s/it]
+                                                    
+{'loss': '0.7068', 'grad_norm': '0.5126', 'learning_rate': '9.784e-06', 'epoch': '2.96'}
+
+ 18%|█▊        | 370/2000 [54:11<3:59:15,  8.81s/it]
+ 19%|█▊        | 371/2000 [54:20<3:55:52,  8.69s/it]
+                                                    
+{'loss': '0.631', 'grad_norm': '0.1986', 'learning_rate': '9.782e-06', 'epoch': '2.968'}
+
+ 19%|█▊        | 371/2000 [54:20<3:55:52,  8.69s/it]
+ 19%|█▊        | 372/2000 [54:28<3:55:13,  8.67s/it]
+                                                    
+{'loss': '0.9131', 'grad_norm': '0.269', 'learning_rate': '9.779e-06', 'epoch': '2.976'}
+
+ 19%|█▊        | 372/2000 [54:28<3:55:13,  8.67s/it]
+ 19%|█▊        | 373/2000 [54:37<3:53:17,  8.60s/it]
+                                                    
+{'loss': '0.658', 'grad_norm': '0.2343', 'learning_rate': '9.776e-06', 'epoch': '2.984'}
+
+ 19%|█▊        | 373/2000 [54:37<3:53:17,  8.60s/it]
+ 19%|█▊        | 374/2000 [54:46<3:56:00,  8.71s/it]
+                                                    
+{'loss': '0.7102', 'grad_norm': '0.2673', 'learning_rate': '9.774e-06', 'epoch': '2.992'}
+
+ 19%|█▊        | 374/2000 [54:46<3:56:00,  8.71s/it]
+ 19%|█▉        | 375/2000 [54:55<3:59:40,  8.85s/it]
+                                                    
+{'loss': '0.9474', 'grad_norm': '0.3634', 'learning_rate': '9.771e-06', 'epoch': '3'}
+
+ 19%|█▉        | 375/2000 [54:55<3:59:40,  8.85s/it]
+ 19%|█▉        | 376/2000 [55:05<4:07:32,  9.15s/it]
+                                                    
+{'loss': '0.5427', 'grad_norm': '0.2771', 'learning_rate': '9.769e-06', 'epoch': '3.008'}
+
+ 19%|█▉        | 376/2000 [55:05<4:07:32,  9.15s/it]
+ 19%|█▉        | 377/2000 [55:14<4:05:36,  9.08s/it]
+                                                    
+{'loss': '0.7358', 'grad_norm': '0.2442', 'learning_rate': '9.766e-06', 'epoch': '3.016'}
+
+ 19%|█▉        | 377/2000 [55:14<4:05:36,  9.08s/it]
+ 19%|█▉        | 378/2000 [55:22<4:01:42,  8.94s/it]
+                                                    
+{'loss': '0.752', 'grad_norm': '0.3687', 'learning_rate': '9.763e-06', 'epoch': '3.024'}
+
+ 19%|█▉        | 378/2000 [55:22<4:01:42,  8.94s/it]
+ 19%|█▉        | 379/2000 [55:31<3:58:04,  8.81s/it]
+                                                    
+{'loss': '0.8947', 'grad_norm': '0.4228', 'learning_rate': '9.761e-06', 'epoch': '3.032'}
+
+ 19%|█▉        | 379/2000 [55:31<3:58:04,  8.81s/it]
+ 19%|█▉        | 380/2000 [55:41<4:04:41,  9.06s/it]
+                                                    
+{'loss': '0.9238', 'grad_norm': '0.2141', 'learning_rate': '9.758e-06', 'epoch': '3.04'}
+
+ 19%|█▉        | 380/2000 [55:41<4:04:41,  9.06s/it]
+ 19%|█▉        | 381/2000 [55:49<4:01:26,  8.95s/it]
+                                                    
+{'loss': '0.6405', 'grad_norm': '0.3335', 'learning_rate': '9.755e-06', 'epoch': '3.048'}
+
+ 19%|█▉        | 381/2000 [55:49<4:01:26,  8.95s/it]
+ 19%|█▉        | 382/2000 [55:58<3:58:21,  8.84s/it]
+                                                    
+{'loss': '0.7141', 'grad_norm': '0.1881', 'learning_rate': '9.753e-06', 'epoch': '3.056'}
+
+ 19%|█▉        | 382/2000 [55:58<3:58:21,  8.84s/it]
+ 19%|█▉        | 383/2000 [56:07<3:57:16,  8.80s/it]
+                                                    
+{'loss': '0.8293', 'grad_norm': '0.4282', 'learning_rate': '9.75e-06', 'epoch': '3.064'}
+
+ 19%|█▉        | 383/2000 [56:07<3:57:16,  8.80s/it]
+ 19%|█▉        | 384/2000 [56:16<4:00:17,  8.92s/it]
+                                                    
+{'loss': '1.059', 'grad_norm': '0.3069', 'learning_rate': '9.747e-06', 'epoch': '3.072'}
+
+ 19%|█▉        | 384/2000 [56:16<4:00:17,  8.92s/it]
+ 19%|█▉        | 385/2000 [56:25<4:00:09,  8.92s/it]
+                                                    
+{'loss': '0.786', 'grad_norm': '0.3737', 'learning_rate': '9.744e-06', 'epoch': '3.08'}
+
+ 19%|█▉        | 385/2000 [56:25<4:00:09,  8.92s/it]
+ 19%|█▉        | 386/2000 [56:33<3:55:28,  8.75s/it]
+                                                    
+{'loss': '0.7935', 'grad_norm': '0.1887', 'learning_rate': '9.742e-06', 'epoch': '3.088'}
+
+ 19%|█▉        | 386/2000 [56:33<3:55:28,  8.75s/it]
+ 19%|█▉        | 387/2000 [56:42<3:55:33,  8.76s/it]
+                                                    
+{'loss': '0.6257', 'grad_norm': '0.2716', 'learning_rate': '9.739e-06', 'epoch': '3.096'}
+
+ 19%|█▉        | 387/2000 [56:42<3:55:33,  8.76s/it]
+ 19%|█▉        | 388/2000 [56:50<3:54:45,  8.74s/it]
+                                                    
+{'loss': '0.6252', 'grad_norm': '0.2627', 'learning_rate': '9.736e-06', 'epoch': '3.104'}
+
+ 19%|█▉        | 388/2000 [56:51<3:54:45,  8.74s/it]
+ 19%|█▉        | 389/2000 [56:59<3:53:49,  8.71s/it]
+                                                    
+{'loss': '0.8678', 'grad_norm': '0.2', 'learning_rate': '9.733e-06', 'epoch': '3.112'}
+
+ 19%|█▉        | 389/2000 [56:59<3:53:49,  8.71s/it]
+ 20%|█▉        | 390/2000 [57:08<3:55:46,  8.79s/it]
+                                                    
+{'loss': '0.8314', 'grad_norm': '0.383', 'learning_rate': '9.73e-06', 'epoch': '3.12'}
+
+ 20%|█▉        | 390/2000 [57:08<3:55:46,  8.79s/it]
+ 20%|█▉        | 391/2000 [57:17<3:56:22,  8.81s/it]
+                                                    
+{'loss': '0.61', 'grad_norm': '0.2494', 'learning_rate': '9.728e-06', 'epoch': '3.128'}
+
+ 20%|█▉        | 391/2000 [57:17<3:56:22,  8.81s/it]
+ 20%|█▉        | 392/2000 [57:26<3:57:04,  8.85s/it]
+                                                    
+{'loss': '0.7842', 'grad_norm': '0.1577', 'learning_rate': '9.725e-06', 'epoch': '3.136'}
+
+ 20%|█▉        | 392/2000 [57:26<3:57:04,  8.85s/it]
+ 20%|█▉        | 393/2000 [57:35<3:59:39,  8.95s/it]
+                                                    
+{'loss': '0.4466', 'grad_norm': '0.2353', 'learning_rate': '9.722e-06', 'epoch': '3.144'}
+
+ 20%|█▉        | 393/2000 [57:35<3:59:39,  8.95s/it]
+ 20%|█▉        | 394/2000 [57:43<3:51:39,  8.65s/it]
+                                                    
+{'loss': '0.7166', 'grad_norm': '0.2624', 'learning_rate': '9.719e-06', 'epoch': '3.152'}
+
+ 20%|█▉        | 394/2000 [57:43<3:51:39,  8.65s/it]
+ 20%|█▉        | 395/2000 [57:51<3:47:40,  8.51s/it]
+                                                    
+{'loss': '0.7764', 'grad_norm': '0.2587', 'learning_rate': '9.716e-06', 'epoch': '3.16'}
+
+ 20%|█▉        | 395/2000 [57:51<3:47:40,  8.51s/it]
+ 20%|█▉        | 396/2000 [58:00<3:53:37,  8.74s/it]
+                                                    
+{'loss': '0.8585', 'grad_norm': '0.3089', 'learning_rate': '9.713e-06', 'epoch': '3.168'}
+
+ 20%|█▉        | 396/2000 [58:00<3:53:37,  8.74s/it]
+ 20%|█▉        | 397/2000 [58:09<3:47:58,  8.53s/it]
+                                                    
+{'loss': '0.9351', 'grad_norm': '0.4044', 'learning_rate': '9.71e-06', 'epoch': '3.176'}
+
+ 20%|█▉        | 397/2000 [58:09<3:47:58,  8.53s/it]
+ 20%|█▉        | 398/2000 [58:17<3:48:29,  8.56s/it]
+                                                    
+{'loss': '0.7059', 'grad_norm': '0.28', 'learning_rate': '9.707e-06', 'epoch': '3.184'}
+
+ 20%|█▉        | 398/2000 [58:17<3:48:29,  8.56s/it]
+ 20%|█▉        | 399/2000 [58:27<3:55:18,  8.82s/it]
+                                                    
+{'loss': '0.6993', 'grad_norm': '0.2824', 'learning_rate': '9.704e-06', 'epoch': '3.192'}
+
+ 20%|█▉        | 399/2000 [58:27<3:55:18,  8.82s/it]
+ 20%|██        | 400/2000 [58:35<3:54:02,  8.78s/it]
+                                                    
+{'loss': '1.066', 'grad_norm': '0.3977', 'learning_rate': '9.701e-06', 'epoch': '3.2'}
+
+ 20%|██        | 400/2000 [58:35<3:54:02,  8.78s/it]
+ 20%|██        | 401/2000 [58:44<3:55:04,  8.82s/it]
+                                                    
+{'loss': '0.8105', 'grad_norm': '0.4152', 'learning_rate': '9.698e-06', 'epoch': '3.208'}
+
+ 20%|██        | 401/2000 [58:44<3:55:04,  8.82s/it]
+ 20%|██        | 402/2000 [58:52<3:49:25,  8.61s/it]
+                                                    
+{'loss': '0.7377', 'grad_norm': '0.4526', 'learning_rate': '9.695e-06', 'epoch': '3.216'}
+
+ 20%|██        | 402/2000 [58:52<3:49:25,  8.61s/it]
+ 20%|██        | 403/2000 [59:00<3:45:51,  8.49s/it]
+                                                    
+{'loss': '0.5879', 'grad_norm': '0.3582', 'learning_rate': '9.692e-06', 'epoch': '3.224'}
+
+ 20%|██        | 403/2000 [59:01<3:45:51,  8.49s/it]
+ 20%|██        | 404/2000 [59:10<3:55:36,  8.86s/it]
+                                                    
+{'loss': '0.8433', 'grad_norm': '0.3195', 'learning_rate': '9.689e-06', 'epoch': '3.232'}
+
+ 20%|██        | 404/2000 [59:10<3:55:36,  8.86s/it]
+ 20%|██        | 405/2000 [59:19<3:53:47,  8.79s/it]
+                                                    
+{'loss': '0.8415', 'grad_norm': '0.1837', 'learning_rate': '9.686e-06', 'epoch': '3.24'}
+
+ 20%|██        | 405/2000 [59:19<3:53:47,  8.79s/it]
+ 20%|██        | 406/2000 [59:28<3:52:43,  8.76s/it]
+                                                    
+{'loss': '0.8386', 'grad_norm': '0.315', 'learning_rate': '9.683e-06', 'epoch': '3.248'}
+
+ 20%|██        | 406/2000 [59:28<3:52:43,  8.76s/it]
+ 20%|██        | 407/2000 [59:36<3:49:55,  8.66s/it]
+                                                    
+{'loss': '0.7206', 'grad_norm': '0.2262', 'learning_rate': '9.68e-06', 'epoch': '3.256'}
+
+ 20%|██        | 407/2000 [59:36<3:49:55,  8.66s/it]
+ 20%|██        | 408/2000 [59:45<3:52:52,  8.78s/it]
+                                                    
+{'loss': '0.8019', 'grad_norm': '0.2463', 'learning_rate': '9.677e-06', 'epoch': '3.264'}
+
+ 20%|██        | 408/2000 [59:45<3:52:52,  8.78s/it]
+ 20%|██        | 409/2000 [59:54<3:52:12,  8.76s/it]
+                                                    
+{'loss': '0.9255', 'grad_norm': '0.5289', 'learning_rate': '9.674e-06', 'epoch': '3.272'}
+
+ 20%|██        | 409/2000 [59:54<3:52:12,  8.76s/it]
+ 20%|██        | 410/2000 [1:00:02<3:50:19,  8.69s/it]
+                                                      
+{'loss': '0.8539', 'grad_norm': '0.2898', 'learning_rate': '9.671e-06', 'epoch': '3.28'}
+
+ 20%|██        | 410/2000 [1:00:02<3:50:19,  8.69s/it]
+ 21%|██        | 411/2000 [1:00:10<3:42:22,  8.40s/it]
+                                                      
+{'loss': '0.8132', 'grad_norm': '0.7297', 'learning_rate': '9.668e-06', 'epoch': '3.288'}
+
+ 21%|██        | 411/2000 [1:00:10<3:42:22,  8.40s/it]
+ 21%|██        | 412/2000 [1:00:18<3:37:12,  8.21s/it]
+                                                      
+{'loss': '0.696', 'grad_norm': '0.3248', 'learning_rate': '9.665e-06', 'epoch': '3.296'}
+
+ 21%|██        | 412/2000 [1:00:18<3:37:12,  8.21s/it]
